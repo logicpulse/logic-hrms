@@ -5,7 +5,7 @@ Accrual Journal Entry for salaries from {0} to {1},Entrada de diário de acrésc
 Add to Details,Adicionar aos detalhes,
 Added to details,Adicionado aos detalhes,
 All Jobs,Todos os Empregos,
-Allocated Leaves,Folhas Alocadas,
+Allocated Leaves,Férias atribuídas,
 Annual Salary,Salário anual,
 Application period cannot be across two allocation records,O período de aplicação não pode ser realizado em dois registros de alocação,
 Application period cannot be outside leave allocation period,O período do pedido não pode estar fora do período de atribuição de licença,
@@ -25,7 +25,7 @@ Attendance not submitted for {0} as it is a Holiday.,"Participação não enviad
 Bank Entries,Registos Bancários,
 Base,Base,
 Beginner,Principiante,
-Birthday Reminder,Lembrete de aniversário,
+Birthday Reminder 🎂,Lembrete de aniversário 🎂,
 Bonus Payment Date cannot be a past date,Data de pagamento do bônus não pode ser uma data passada,
 Calls,Chamadas,
 Cannot find active Leave Period,Não é possível encontrar período de saída ativo,
@@ -107,7 +107,7 @@ Leave Without Pay,Licença Sem Vencimento,
 "Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","A licença não pode ser atribuída antes de {0}, pois o saldo de licenças já foi carregado no registo de atribuição de licenças {1}",
 "Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","A licença não pode ser aplicada/cancelada antes de {0}, pois o saldo da licença já foi encaminhado no registo de atribuição de licenças futuras {1}",
 Leave of type {0} cannot be longer than {1},A licença do tipo {0} não pode ser mais longa do que {1},
-Leaves,Sai,
+Leaves,Ausências,
 Leaves Allocated Successfully for {0},Licenças Atribuídas Com Sucesso para {0},
 Leaves per Year,Licenças por Ano,
 Lifecycle,Ciclo da vida,
@@ -205,7 +205,7 @@ To date can not be less than from date,Até o momento não pode ser menor que a 
 To date can not greater than employee's relieving date,Até à data não pode maior do que a data de alívio do empregado,
 Total Absent,Faltas Totais,
 Total Deduction,Total de Reduções,
-Total Leaves,total de folhas,
+Total Leaves,total de ausências,
 Total Present,Total Atual,
 Total advance amount cannot be greater than total sanctioned amount,O montante do adiantamento total não pode ser maior do que o montante sancionado total,
 Total flexible benefit component amount {0} should not be less than max benefits {1},O valor total do componente de benefício flexível {0} não deve ser menor do que os benefícios máximos {1},
@@ -275,7 +275,7 @@ Please setup numbering series for Attendance via Setup > Numbering Series,Config
 Current Odometer Value should be greater than Last Odometer Value {0},O valor atual do odômetro deve ser maior que o valor do último odômetro {0},
 No additional expenses has been added,Nenhuma despesa adicional foi adicionada,
 {0} already exists for employee {1} and period {2},{0} já existe para funcionário {1} e período {2},
-Leaves Allocated,Folhas Alocadas,
+Leaves Allocated,Licenças Alocadas,
 Leave Without Pay does not match with approved {} records,Sair sem pagar não corresponde aos registros {} aprovados,
 Income Tax Slab not set in Salary Structure Assignment: {0},Placa de imposto de renda não definida na atribuição da estrutura salarial: {0},
 Income Tax Slab: {0} is disabled,Slab de imposto de renda: {0} está desativado,
@@ -376,7 +376,7 @@ Expense Proof,Prova de Despesas,
 Employee Boarding Activity,Atividade de embarque de funcionários,
 Activity Name,Nome da Atividade,
 Required for Employee Creation,Necessário para a criação de funcionários,
-Applicable in the case of Employee Onboarding,Aplicável no caso de Onboarding de Funcionários,
+Applicable in the case of Employee Onboarding,Aplicável no caso de Integração de Funcionários,
 Employee Checkin,Check-in de funcionários,
 Log Type,Tipo de registro,
 OUT,FORA,
@@ -391,7 +391,7 @@ Employee Health Insurance,Seguro de Saúde do Funcionário,
 Health Insurance Name,Nome do Seguro de Saúde,
 Employee Incentive,Incentivo ao funcionário,
 Incentive Amount,Quantidade de incentivo,
-Employee Onboarding,Empregado Onboarding,
+Employee Onboarding,Integração de Funcionário,
 Notify users by email,Notificar usuários por email,
 Employee Onboarding Template,Modelo de integração de funcionários,
 Employee Other Income,Outras receitas do empregado,
@@ -435,7 +435,7 @@ Employee Transfer,Transferência de Empregados,
 Transfer Date,Data de transferência,
 Employee Transfer Details,Detalhes de transferência de funcionários,
 Employee Transfer Detail,Detalhe de transferência de funcionários,
-Re-allocate Leaves,Reatribuir Folhas,
+Re-allocate Leaves,Reatribuir Licenças,
 Create New Employee Id,Criar novo ID de funcionário,
 New Employee ID,ID do novo funcionário,
 HR-EXP-.YYYY.-,HR-EXP-.YYYY.-,
@@ -472,7 +472,7 @@ Leave Approval Notification Template,Deixar modelo de notificação de aprovaç�
 Leave Status Notification Template,Deixe o modelo de notificação de status,
 Role Allowed to Create Backdated Leave Application,Função permitida para criar aplicativos de licença antigos,
 Leave Approver Mandatory In Leave Application,Deixe o Aprovador Obrigatório no Pedido de Licença,
-Show Leaves Of All Department Members In Calendar,Mostrar folhas de todos os membros do departamento no calendário,
+Show Leaves Of All Department Members In Calendar,Mostrar Ausências de todos os membros do departamento no calendário,
 Auto Leave Encashment,Deixar automaticamente o carregamento,
 Hiring Settings,Configurações de contratação,
 Check Vacancies On Job Offer Creation,Verifique as vagas na criação da oferta de emprego,
@@ -510,7 +510,7 @@ Unused leaves,Licensas não utilizadas,
 Total Leaves Allocated,Licenças Totais Atribuídas,
 Total Leaves Encashed,Total de Folhas Encastadas,
 Leave Period,Período de licença,
-Carry Forwarded Leaves,Carry Folhas encaminhadas,
+Carry Forwarded Leaves,Transferência Licenças Acumulados,
 Apply / Approve Leaves,Aplicar / Aprovar Licenças,
 HR-LAP-.YYYY.-,HR-LAP-.YYYY.-,
 Leave Balance Before Application,Saldo de Licenças Antes do Pedido,
@@ -538,7 +538,7 @@ Department (optional),Departamento (opcional),
 Designation (optional),Designação (opcional),
 Employee Grade (optional),Employee Grade (opcional),
 Employee (optional),Empregado (opcional),
-Allocate Leaves,Alocar folhas,
+Allocate Leaves,Alocar Licenças,
 Carry Forward,Continuar,
 Please select Carry Forward if you also want to include previous fiscal year's balance leaves to this fiscal year,Por favor selecione Continuar se também deseja incluir o saldo de licenças do ano fiscal anterior neste ano fiscal,
 New Leaves Allocated (In Days),Novas Licenças Alocadas (Em Dias),
@@ -561,8 +561,8 @@ Is Optional Leave,É licença opcional,
 Allow Negative Balance,Permitir Saldo Negativo,
 Include holidays within leaves as leaves,Incluir as férias nas licenças como licenças,
 Is Compensatory,É Compensatório,
-Maximum Carry Forwarded Leaves,Máximo de folhas encaminhadas para transporte,
-Expire Carry Forwarded Leaves (Days),Expirar transportar folhas encaminhadas (dias),
+Maximum Carry Forwarded Leaves,Máximo de licenças transferidas,
+Expire Carry Forwarded Leaves (Days),Expirar licenças transferidas (dias),
 Calculated in days,Calculado em dias,
 Encashment,Recheio,
 Allow Encashment,Permitir Encashment,
@@ -837,10 +837,1143 @@ From date can not be less than employee's joining date.,A data inicial não pode
 To date can not be greater than employee's relieving date.,Até o momento não pode ser posterior à data de dispensa do funcionário.,
 Payroll date can not be greater than employee's relieving date.,A data da folha de pagamento não pode ser posterior à data de dispensa do funcionário.,
 Condition and formula,Condição e fórmula,
-Available Leaves,Folhas Disponíveis,
+Available Leaves,Licenças Disponíveis,
 IFSC Code,Código IFSC,
 Others,Outros,
-Total Allocated Leaves,Total de Folhas Alocadas,
-Used Leaves,Folhas Usadas,
+Total Allocated Leaves,Total de Licenças Alocadas,
+Used Leaves,Licenças Usadas,
 PAN Number,Número PAN,
-Expired Leaves,Folhas Vencidas,
+Expired Leaves,Licenças Vencidas,
+Unlink Payment on Cancellation of Employee Advance,Desvincular Pagamento no Cancelamento de Adiantamento de Funcionário
+"""From Date"" can not be greater than or equal to ""To Date""","""Data Inicial"" não pode ser maior ou igual a ""Data Até"""
+$dayjs,$ Dayjs
+$employee,$funcionário
+$translate,$traduzir
+% Utilization (B + NB) / T,% Utilização (B + NB) / T
+% Utilization (B / T),% de utilização (B/T)
+...Fetching Employees,...Buscando funcionários
+<b>Base</b> amount has not been set for the following employee(s): {0},O valor <b>base</b> não foi definido para os seguintes funcionários: {0}
+<b>Total Leaves Allocated</b> are more than the number of days in the allocation period,<b>O total de licenças alocadas</b> é maior que o número de dias no período de alocação
+"<h3>Help</h3>||||||<p>Notes:</p>||||||<ol>|||<li>Use field <code>base</code> for using base salary of the Employee</li>|||<li>Use Salary Component abbreviations in conditions and formulas. <code>BS = Basic Salary</code></li>|||<li>Use field name for employee details in conditions and formulas. <code>Employment Type = employment_type</code><code>Branch = branch</code></li>|||<li>Use field name from Salary Slip in conditions and formulas. <code>Payment Days = payment_days</code><code>Leave without pay = leave_without_pay</code></li>|||<li>Direct Amount can also be entered based on Condition. See example 3</li></ol>||||||<h4>Examples</h4>|||<ol>|||<li>Calculating Basic Salary based on <code>base</code>|||<pre><code>Condition: base &lt; 10000</code></pre>|||<pre><code>Formula: base * .2</code></pre></li>|||<li>Calculating HRA based on Basic Salary<code>BS</code> |||<pre><code>Condition: BS &gt; 2000</code></pre>|||<pre><code>Formula: BS * .1</code></pre></li>|||<li>Calculating TDS based on Employment Type<code>employment_type</code> |||<pre><code>Condition: employment_type==""Intern""</code></pre>|||<pre><code>Amount: 1000</code></pre></li>|||</ol>","<h3>Ajuda</h3>||||||<p>Notas:</p>||||||<ol>|||<li>Use o campo <code>base</code> para usar o salário base do Funcionário</li>|||<li>Use abreviações do Componente Salarial em condições e fórmulas. <code>BS = Salário Básico</code></li>|||<li>Use o nome do campo para detalhes do funcionário em condições e fórmulas. <code>Tipo de emprego = Employment_type</code><code>Filial = filial</code></li>|||<li>Use o nome do campo do comprovante de salário em condições e fórmulas. <code>Dias de pagamento = payment_days</code><code>Lança sem pagamento = sair_sem_pagamento</code></li>|||<li>O valor direto também pode ser inserido com base na condição. Veja o exemplo 3</li></ol>||||||<h4>Exemplos</h4>|||<ol>|||<li>Cálculo do Salário Básico com base em <code>base</code>|||<pre><code>Condição: base &lt; 10000</code></pre>|||<pre><code>Fórmula: base * .2</code></pre></li>|||<li>Cálculo do HRA com base no Salário Básico<code>BS</code> |||<pre><code>Condição: BS &gt; 2000</code></pre>|||<pre><code>Fórmula: BS * .1</code></pre></li>|||<li>Cálculo de TDS com base no tipo de emprego<code>employment_type</code> |||<pre><code>Condição: Employment_type==""Estagiário""</code></pre>|||<pre><code>Valor: 1000</code></pre></li>|||</ol>"
+"<h4>Condition Examples</h4>|||<ol>|||<li>Applying tax if employee born between 31-12-1937 and 01-01-1958 (Employees aged 60 to 80)<br>|||<code>Condition: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>Applying tax by employee gender<br>|||<code>Condition: gender==""Male""</code></li><br>|||<li>Applying tax by Salary Component<br>|||<code>Condition: base &gt; 10000</code></li></ol>","<h4>Exemplos de condições</h4>|||<ol>|||<li>Aplicação de imposto se funcionário nascido entre 31-12-1937 e 01-01-1958 (Funcionários com idade entre 60 e 80 anos)<br>|||<code>Condição: data_de_nascimento&gt;data(1937, 12, 31) e data_de_nascimento&lt;data(1958, 01, 01)</code></li><br><li>Aplicação de impostos por gênero do funcionário<br>|||<code>Condição: gênero==""Masculino""</code></li><br>|||<li>Aplicação de impostos por componente salarial<br>|||<code>Condição: base &gt; 10.000</code></li></ol>"
+<h5>Employees on Half Day</h5>,<h5>Funcionários em meio dia</h5>
+<h5>Unmarked Employees</h5>,<h5>Funcionários não marcados</h5>
+<hr>,<h>
+<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>,<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>
+A Job Requisition for {0} requested by {1} already exists: {2},Já existe uma requisição de trabalho para {0} solicitada por {1}: {2}
+A friendly reminder of an important date for our team.,Um lembrete amigável de uma data importante para nossa equipe.
+Absent Records,Registros de ausência
+"Account type cannot be set for payroll payable account {0}, please remove and try again",O tipo de conta não pode ser definido para a conta de folha de pagamento a pagar {0}. Remova e tente novamente
+Account {0} does not match with Company {1},A conta {0} não corresponde à empresa {1}
+Accounting & Payment,Contabilidade e Pagamento
+Accounts not set for Salary Component {0},Contas não definidas para componente salarial {0}
+Action on Submission,Ação no envio
+Actual Encashable Days,Dias reais que podem ser resgatados
+Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation.,Os saldos reais não estão disponíveis porque o pedido de licença abrange diferentes alocações de licença. Você ainda pode solicitar licenças que seriam compensadas na próxima alocação.
+Add Day-wise Dates,Adicionar datas diárias
+Add Employee Property,Adicionar propriedade do funcionário
+Add Feedback,Adicionar comentários
+Add unused leaves from previous leave period's allocation to this allocation,Adicione licenças não utilizadas da alocação do período de licença anterior a esta alocação
+Added tax components from the Salary Component master as the salary structure didn't have any tax component.,"Adicionados componentes fiscais do mestre Componente Salarial, pois a estrutura salarial não tinha nenhum componente tributário."
+Additional Information ,Informações adicionais
+Additional Salary for referral bonus can only be created against Employee Referral with status {0},O salário adicional para bônus por indicação só pode ser criado em relação à indicação de funcionário com status {0}
+Additional Salary for this salary component with {0} enabled already exists for this date,O salário adicional para este componente salarial com {0} ativado já existe para esta data
+"Advance Account is mandatory. Please set the <a href=""/app/company/{0}#default_employee_advance_account"" target=""_blank"">Default Employee Advance Account</a> in the Company record {0} and submit this document.","Conta Antecipada é obrigatória. Defina a <a href=""/app/company/{0}#default_employee_advance_account"" target=""_blank"">Conta de adiantamento de funcionário padrão</a> no registro da empresa {0} e envie este documento."
+Advanced Filters,Filtros Avançados
+All Goals,Todos os objetivos
+All allocated assets should be returned before submission,Todos os ativos alocados devem ser devolvidos antes do envio
+All the mandatory tasks for employee creation are not completed yet.,Todas as tarefas obrigatórias para criação de funcionários ainda não foram concluídas.
+Allocate Based On Leave Policy,Alocar com base na política de licença
+Allocate Leave,Alocar licença
+Allocate leaves to {0} employee(s)?,Alocar licenças para {0} funcionário(s)?
+Allocate on Day,Alocar no dia
+Allocated {0} leave(s) via scheduler on {1} based on the 'Allocate on Day' option set to {2},{0} licença(s) alocadas por meio do agendador em {1} com base na opção 'Alocar no dia' definida como {2}
+Allocating Leave,Alocando licença
+Allow Employee Checkin from Mobile App,Permitir check-in de funcionários no aplicativo móvel
+Allow Geolocation Tracking,Permitir rastreamento de geolocalização
+Allow Leave Application After (Working Days),Permitir solicitação de licença após (dias úteis)
+Allow Multiple Shift Assignments for Same Date,Permitir atribuições de vários turnos para a mesma data
+Allow Over Allocation,Permitir superalocação
+Allows allocating more leaves than the number of days in the allocation period.,Permite alocar mais licenças que o número de dias do período de alocação.
+Amount Based on Formula,Valor baseado na fórmula
+Amount claimed via Expense Claim,Valor reivindicado por meio de relatório de despesas
+Amount of expense,Valor da despesa
+Amount paid against this encashment,Valor pago contra esta cobrança
+Amount scheduled for deduction via salary,Valor previsto para desconto via salário
+Amount should not be less than zero,O valor não deve ser inferior a zero
+Amount that has been paid against this advance,Valor que foi pago contra este adiantamento
+"An amount of {0} already claimed for the component {1}, set the amount equal or greater than {2}","Um valor de {0} já reivindicado para o componente {1}, defina o valor igual ou superior a {2}"
+An attendance record is linked to this checkin. Please cancel the attendance before modifying time.,Um registro de presença está vinculado a este check-in. Por favor cancele a participação antes de modificar o horário.
+Annual Allocation Exceeded,Alocação anual excedida
+Annual Taxable Amount,Valor tributável anual
+"Any other remarks, noteworthy effort that should go in the records","Quaisquer outras observações, esforço digno de nota que deve ficar nos registros"
+Applicable Earnings Component,Componente de ganhos aplicável
+Applicant Name,Nome do requerente
+Applicant Rating,Avaliação do Candidato
+Applications Received,Inscrições recebidas
+Applications received:,Inscrições recebidas:
+Apply,Aplicar
+Apply Filters,Aplicar filtros
+Appraisal Cycle,Ciclo de Avaliação
+Appraisal KRA,Avaliação KRA
+Appraisal Linking,Vinculação de avaliação
+Appraisal Overview,Visão geral da avaliação
+Appraisal Template,Modelo de avaliação
+Appraisal Template Missing,Modelo de avaliação ausente
+Appraisal Template not found for some designations.,Modelo de avaliação não encontrado para algumas designações.
+Appraisal creation is queued. It may take a few minutes.,A criação da avaliação está na fila. Pode demorar alguns minutos.
+Appraisal {0} already exists for Employee {1} for this Appraisal Cycle or overlapping period,A Avaliação {0} já existe para o Funcionário {1} para este Ciclo de Avaliação ou período sobreposto
+Appraisal {0} does not belong to Employee {1},A avaliação {0} não pertence ao funcionário {1}
+Appraisee,Avaliado
+Appraisees: {0},Avaliados: {0}
+Approval,Aprovação
+Approve,Aprovar
+Approved,Aprovado
+Approvers,Aprovadores
+Archive,Arquivo
+Archived,Arquivado
+Are you sure you want to delete the attachment,Tem certeza de que deseja excluir o anexo
+Are you sure you want to email the selected salary slips?,Tem certeza de que deseja enviar por e-mail os comprovantes de salário selecionados?
+Are you sure you want to proceed?,Tem certeza de que deseja prosseguir?
+Are you sure you want to reject the Employee Referral?,Tem certeza de que deseja rejeitar a indicação do funcionário?
+Asset Recovery Cost for {0}: {1},Custo de recuperação de ativos para {0}: {1}
+Assets Allocated,Ativos Alocados
+Assign Salary Structure to {0} employee(s)?,Atribuir estrutura salarial a {0} funcionário(s)?
+Assign Shift,Atribuir turno
+Assign Shift Schedule,Atribuir agendamento de turnos
+Assign Structure,Atribuir Estrutura
+Assigning Salary Structure,Atribuição de estrutura salarial
+Assigning Structure...,Atribuindo Estrutura...
+Assigning...,Atribuindo...
+Assignment based on,Atribuição baseada em
+Associate Job Opening,Vaga de emprego para associados
+Associated Document,Documento Associado
+Associated Document Type,Tipo de documento associado
+At least one interview has to be selected.,Pelo menos uma entrevista deve ser selecionada.
+Attach Proof,Anexar prova
+Attendance ID,ID de presença
+Attendance Settings,Configurações de presença
+Attendance Updated,Presença atualizada
+Attendance Warnings,Avisos de presença
+Attendance date {0} can not be less than employee {1}'s joining date: {2},A data de participação {0} não pode ser inferior à data de ingresso do funcionário {1}: {2}
+Attendance for all the employees under this criteria has been marked already.,Já foi assinalada a assiduidade de todos os colaboradores abrangidos por este critério.
+Attendance for employee {0} is already marked for an overlapping shift {1}: {2},A presença do funcionário {0} já está marcada para um turno sobreposto {1}: {2}
+Attendance for employee {0} is already marked for the date {1}: {2},A presença do funcionário {0} já está marcada para a data {1}: {2}
+Attendance for employee {0} is already marked for the following dates: {1},O comparecimento do funcionário {0} já está marcado para as seguintes datas: {1}
+Attendance for the following dates will be skipped/overwritten on submission,A participação nas seguintes datas será ignorada/substituída no envio
+Attendance from {0} to {1} has already been marked for the Employee {2},Presença de {0} a {1} já foi marcada para o Funcionário {2}
+Attendance has been marked for all the employees between the selected payroll dates.,A presença foi marcada para todos os funcionários entre as datas selecionadas da folha de pagamento.
+Attendance is pending for these employees between the selected payroll dates. Mark attendance to proceed. Refer {0} for details.,O atendimento está pendente para esses funcionários entre as datas selecionadas da folha de pagamento. Marque presença para prosseguir. Consulte {0} para obter detalhes.
+Attendance marked successfully,Presença marcada com sucesso
+Attendance not submitted for {0} as {1} is on leave.,Presença não enviada para {0} porque {1} está de licença.
+AttendanceRequestListView,AtendimentoRequestListView
+Attrition Count,Contagem de desgaste
+Automated Based on Goal Progress,Automatizado com base no progresso da meta
+"Automatically fetches all assets allocated to the employee, if any","Busca automaticamente todos os ativos alocados ao funcionário, se houver"
+Automatically update Last Sync of Checkin,Atualizar automaticamente a última sincronização do check-in
+Available Leave(s),Licenças Disponíveis
+Average Feedback Score,Pontuação Média de Feedback
+Average Rating,Avaliação Média
+"Average of Goal Score, Feedback Score, and Self Appraisal Score (out of 5)","Média de pontuação de meta, pontuação de feedback e pontuação de autoavaliação (de 5)"
+Average rating of demonstrated skills,Classificação média das habilidades demonstradas
+Avg Feedback Score,Pontuação média de feedback
+Avg Utilization,Utilização média
+Avg Utilization (Billed Only),Utilização média (somente faturado)
+Backdated Leave Application is restricted. Please set the {} in {},O pedido de licença retroativo é restrito. Defina o {} em {}
+Base & Variable,Base e Variável
+Below is the list of upcoming holidays for you:,Abaixo está a lista dos próximos feriados para você:
+Benefits,Benefícios
+Bill Amount,Valor da fatura
+Billed Hours,Horas faturadas
+Billed Hours (B),Horas faturadas (B)
+Birthday Reminder ðŸŽ‚,Lembrete de aniversário ðŸŽ‚
+Birthdays,Aniversários
+Bonus,Bônus
+Branch: {0},Filial: {0}
+Bulk Assignments,Atribuições em massa
+Bulk Leave Policy Assignment,Atribuição de política de licença em massa
+Bulk Salary Structure Assignment,Atribuição de estrutura salarial em massa
+"By default, the Final Score is calculated as the average of Goal Score, Feedback Score, and Self Appraisal Score. Enable this to set a different formula","Por padrão, a pontuação final é calculada como a média da pontuação da meta, pontuação do feedback e pontuação da autoavaliação. Habilite isto para definir uma fórmula diferente"
+CTC,CTC
+Calculate Final Score based on Formula,Calcule a pontuação final com base na fórmula
+Calculate Gratuity Amount Based On,Calcular o valor da gratificação com base em
+Cancellation Queued,Cancelamento na fila
+Cannot Modify Time,Não é possível modificar a hora
+Cannot allocate leaves outside the allocation period {0} - {1},Não é possível alocar licenças fora do período de alocação {0} - {1}
+Cannot break shift after end date,Não é possível interromper o turno após a data de término
+Cannot break shift before start date,Não é possível interromper o turno antes da data de início
+Cannot cancel Shift Assignment: {0} as it is linked to Attendance: {1},Não é possível cancelar a Atribuição de Turno: {0} porque está vinculada à Presença: {1}
+Cannot cancel Shift Assignment: {0} as it is linked to Employee Checkin: {1},Não é possível cancelar a Atribuição de Turno: {0} porque está vinculada ao Check-in do Funcionário: {1}
+Cannot create Salary Slip for Employee joining after Payroll Period,Não é possível criar comprovante de salário para ingresso de funcionário após período de folha de pagamento
+Cannot create Salary Slip for Employee who has left before Payroll Period,Não é possível criar comprovante de salário para funcionário que saiu antes do período da folha de pagamento
+Cannot create a Job Applicant against a closed Job Opening,Não é possível criar um candidato a emprego em uma vaga fechada
+Cannot create or change transactions against an Appraisal Cycle with status {0}.,Não é possível criar ou alterar transações em um Ciclo de Avaliação com status {0}.
+Cannot mark attendance for an Inactive employee {0},Não é possível marcar presença para um funcionário inativo {0}
+Cannot submit. Attendance is not marked for some employees.,Não é possível enviar. A presença não é marcada para alguns funcionários.
+Cannot update allocation for {0} after submission,Não é possível atualizar a alocação de {0} após o envio
+Cannot update status of Goal groups,Não é possível atualizar o status dos grupos de metas
+Cause of Grievance,Causa da reclamação
+Change,Mudar
+Changed the status from {0} to {1} and Status for Other Half to {2} via Attendance Request,Alterado o status de {0} para {1} e o status da outra metade para {2} via solicitação de presença
+Changing '{0}' to {1}.,Alterando '{0}' para {1}.
+"Changing KRA in this parent goal will align all the child goals to the same KRA, if any.","Alterar o KRA nesta meta pai alinhará todas as metas secundárias ao mesmo KRA, se houver."
+Check <a href='/app/List/Error Log?reference_doctype={0}'>{1}</a> for more details,Verifique <a href='/app/List/Error Log?reference_doctype={0}'>{1}</a> para obter mais detalhes
+Check Error Log {0} for more details.,Verifique o Log de erros {0} para obter mais detalhes.
+Check {0} for more details,Verifique {0} para obter mais detalhes
+Checkin Radius,Raio de check-in
+Child nodes can only be created under 'Group' type nodes,Nós filhos só podem ser criados em nós do tipo 'Grupo'
+Claim an Expense,Reivindicar uma despesa
+Claims,Reivindicações
+Clear All,Limpar tudo
+Cleared,Desmarcado
+Click {0} to change the configuration and then resave salary slip,Clique em {0} para alterar a configuração e salvar novamente o comprovante de salário
+Closed On,Fechado
+Closes On,Fecha em
+Closes on:,Fecha em:
+Completing onboarding,Concluindo a integração
+Condition & Formula,Condição e Fórmula
+Condition and Formula Help,Ajuda sobre condição e fórmula
+Consider Grace Period,Considere o período de carência
+Consider Marked Attendance on Holidays,Considere comparecimento marcado em feriados
+Consider Tax Exemption Declaration,Considere a declaração de isenção fiscal
+Consolidate Leave Types,Consolidar tipos de licença
+Could not find any salary slip(s) for the employee {0},Não foi possível encontrar nenhum comprovante de salário do funcionário {0}
+Could not submit some Salary Slips: {},Não foi possível enviar alguns comprovantes de salário: {}
+Could not update Goal,Não foi possível atualizar a meta
+Could not update goals,Não foi possível atualizar as metas
+Country Fixture Deletion Failed,Falha na exclusão do equipamento do país
+Country Setup failed,Falha na configuração do país
+Create Additional Salary,Criar salário adicional
+Create Appraisals,Criar avaliações
+Create Interview,Criar Entrevista
+Create Job Applicant,Criar candidato a emprego
+Create Job Opening,Criar vaga de emprego
+Create Shifts After,Crie turnos depois
+Creating Appraisals,Criação de avaliações
+Creating {0}...,Criando {0}...
+Creation Date,Data de criação
+Creation Failed,Falha na criação
+Creation of Salary Structure Assignments has been queued. It may take a few minutes.,A criação de atribuições de estrutura salarial foi enfileirada. Pode demorar alguns minutos.
+Creation of {0} has been queued. It may take a few minutes.,A criação de {0} foi colocada na fila. Pode demorar alguns minutos.
+Criteria based on which employee should be rated in Performance Feedback and Self Appraisal,Critérios baseados em qual funcionário deve ser avaliado em Feedback de Desempenho e Autoavaliação
+Currency ,Moeda
+Currency of selected Income Tax Slab should be {0} instead of {1},A moeda da Laje de Imposto de Renda selecionada deve ser {0} em vez de {1}
+Current CTC,CTC atual
+Current Employer ,Atual empregador
+Current Job Title,Cargo Atual
+Current Month Income Tax,Imposto de renda do mês atual
+Current Slab,Laje Atual
+Current Work Experience,Experiência de trabalho atual
+"Currently, there is no {0} leave period for this date to create/update leave allocation.","Atualmente, não há período de licença {0} para esta data para criar/atualizar a alocação de férias."
+Custom Range,Intervalo personalizado
+Cyan,Ciano
+Cycle Name,Nome do ciclo
+Cycles,Ciclos
+Dates & Reason,Datas e motivo
+Dates Based On,Datas baseadas em
+Days for which Holidays are blocked for this department.,Dias em que os feriados estão bloqueados para este departamento.
+Decision Pending,Decisão pendente
+Deduction from Salary,Dedução do salário
+Deductions before tax calculation,Deduções antes do cálculo do imposto
+Default Base Pay,Pagamento base padrão
+Default Employee Advance Account,Conta de adiantamento de funcionário padrão
+Default Expense Claim Payable Account,Conta a pagar de relatório de despesas padrão
+Default Payroll Payable Account,Conta a pagar de folha de pagamento padrão
+Default Shift,Turno padrão
+Delete Attachment,Excluir anexo
+Department {0} does not belong to company: {1},O departamento {0} não pertence à empresa: {1}
+Department: {0},Departamento: {0}
+Depends On Payment Days,Depende dos dias de pagamento
+Designation: {0},Designação: {0}
+"Disable {0} for the {1} component, to prevent the amount from being deducted twice, as its formula already uses a payment-days-based component.","Desative {0} para o componente {1}, para evitar que o valor seja deduzido duas vezes, pois sua fórmula já utiliza um componente baseado em dias de pagamento."
+Disable {0} or {1} to proceed.,Desative {0} ou {1} para continuar.
+Do Not Include in Accounting Entries,Não incluir nos lançamentos contábeis
+Do you still want to proceed?,Você ainda deseja prosseguir?
+Do you want to update the Job Applicant {0} as {1} based on this interview result?,Deseja atualizar o Candidato a Emprego {0} como {1} com base no resultado desta entrevista?
+Duplicate Attendance,Atendimento duplicado
+Duplicate Job Requisition,Requisição de trabalho duplicada
+Duplicate Overwritten Salary,Salário sobrescrito duplicado
+Duplicate Salary Withholding,Retenção de salário duplicado
+ERROR({0}): {1},ERRO({0}): {1}
+Early Exit By,Saída antecipada por
+Early Exits,Saídas antecipadas
+Earned Leaves,Férias Adquiridas
+Earned Leaves are allocated as per the configured frequency via scheduler.,As Férias Adquiridas são atribuídas de acordo com a frequência configurada através do agendador.
+Earned Leaves are auto-allocated via scheduler based on the annual allocation set in the Leave Policy: {0},As Férias Adquiridas são automaticamente atribuídas pelo agendador com base na atribuição anual definida na Política de Férias: {0}
+Earned Leaves are leaves earned by an Employee after working with the company for a certain amount of time. Enabling this will allocate leaves on pro-rata basis by automatically updating Leave Allocation for leaves of this type at intervals set by 'Earned Leave Frequency.,"As Férias Adquiridas são dias de férias conquistados por um Colaborador após trabalhar na empresa durante um determinado período de tempo. Ao ativar esta opção, as férias serão atribuídas numa base pro rata, atualizando automaticamente a Atribuição de Férias para este tipo de férias, em intervalos definidos pela Frequência de Férias Adquiridas."
+Earning Salary Component is required for Employee Referral Bonus.,O ganho do componente salarial é necessário para o bônus de indicação de funcionário.
+Earnings & Deductions,Ganhos e deduções
+Effective From,Eficaz a partir de
+Effective To,Eficaz para
+Email ID,ID de e-mail
+Email Salary Slips,E-mail comprovantes de salário
+Employee Advance Balance,Saldo Antecipado de Funcionário
+Employee Cost Center,Centro de Custo do Funcionário
+Employee Exit,Saída de Funcionário
+Employee Exit Settings,Configurações de saída de funcionário
+Employee Exits,Saídas de funcionários
+Employee Feedback Criteria,Critérios de feedback dos funcionários
+Employee Feedback Rating,Avaliação de feedback dos funcionários
+Employee Grievance,Reclamações de funcionários
+Employee Image,Imagem do funcionário
+Employee Info,Informações do funcionário
+Employee Loan,Empréstimo para funcionários
+Employee Naming By,Nomeação de funcionário por
+Employee Onboarding: {0} already exists for Job Applicant: {1},Integração de funcionários: {0} já existe para candidato a emprego: {1}
+Employee Performance Feedback,Feedback de desempenho dos funcionários
+Employee Promotion cannot be submitted before Promotion Date,A promoção do funcionário não pode ser enviada antes da data da promoção
+Employee Referral {0} is not applicable for referral bonus.,A Indicação de Funcionário {0} não é aplicável para bônus de indicação.
+Employee Referrals,Referências de funcionários
+Employee Responsible ,Funcionário Responsável
+Employee Retained,Funcionário Retido
+Employee Self Service,Autoatendimento para funcionários
+Employee Status,Status do funcionário
+Employee Transfer cannot be submitted before Transfer Date,A transferência de funcionário não pode ser enviada antes da data de transferência
+Employee advance account {0} should be of type {1},A conta de adiantamento de funcionário {0} deve ser do tipo {1}
+Employee advance account {0} should be of type {1}.,A conta de adiantamento de funcionário {0} deve ser do tipo {1}.
+"Employee can be named by Employee ID if you assign one, or via Naming Series. Select your preference here.","O funcionário pode ser nomeado pelo ID do funcionário, se você atribuir um, ou por meio da série de nomenclatura. Selecione sua preferência aqui."
+Employee name,Nome do funcionário
+Employee records are created using the selected option,Os registros de funcionários são criados usando a opção selecionada
+Employee was marked Absent due to missing Employee Checkins.,O funcionário foi marcado como Ausente devido à falta de Check-ins de funcionário.
+Employee was marked Absent for not meeting the working hours threshold.,O funcionário foi marcado como Ausente por não cumprir o limite de jornada de trabalho.
+Employee was marked Absent for other half due to missing Employee Checkins.,O funcionário foi marcado como Ausente na outra metade devido à falta de Check-ins do funcionário.
+Employee {0} already has an Attendance Request {1} that overlaps with this period,O funcionário {0} já possui uma Solicitação de Presença {1} que se sobrepõe a este período
+Employee {0} already has an active Shift {1}: {2} that overlaps within this period.,O funcionário {0} já possui um turno ativo {1}: {2} que se sobrepõe neste período.
+Employee {0} already submitted an application {1} for the payroll period {2},O funcionário {0} já enviou uma solicitação {1} para o período processado na folha de pagamento {2}
+Employee {0} has already applied for Shift {1}: {2} that overlaps within this period,O funcionário {0} já se inscreveu para o turno {1}: {2} que se sobrepõe neste período
+Employee {0} has already applied for {1} between {2} and {3} : {4},O funcionário {0} já se inscreveu para {1} entre {2} e {3}: {4}
+Employee {0} not found in Training Event Participants.,Funcionário {0} não encontrado em Participantes do Evento de Treinamento.
+Employee {0} relieved on {1} must be set as 'Left',O funcionário {0} dispensado em {1} deve ser definido como 'Esquerdo'
+Employee: {0} have to complete minimum {1} years for gratuity,Funcionário: {0} precisa completar no mínimo {1} anos para receber gorjeta
+Employees cannot give feedback to themselves. Use {0} instead: {1},Os funcionários não podem dar feedback a si mesmos. Use {0} em vez disso: {1}
+Employees on Half Day HTML,Funcionários em HTML de meio dia
+Employees will miss holiday reminders from {} until {}. <br> Do you want to proceed with this change?,Os funcionários perderão lembretes de feriados de {} até {}. <br> Deseja prosseguir com esta alteração?
+Employees without Feedback: {0},Funcionários sem feedback: {0}
+Employees without Goals: {0},Funcionários sem metas: {0}
+Employment Type,Tipo de emprego
+EmptyState,Estado Vazio
+Enable Early Exit Marking,Habilitar marcação de saída antecipada
+Enable Late Entry Marking,Ativar marcação de entrada tardia
+Encashment Days,Dias de Encantamento
+Encashment Days cannot exceed {0} {1} as per Leave Type settings,Os Dias de Pagamento não podem exceder {0} {1} de acordo com as configurações de Tipo de Licença
+Encashment Limit Applied,Limite de cobrança aplicado
+End,Fim
+End Date cannot be before Start Date,A data de término não pode ser anterior à data de início
+End date: {0},Data de término: {0}
+Enter the Standard Working Hours for a normal work day. These hours will be used in calculations of reports such as Employee Hours Utilization and Project Profitability analysis.,Insira o horário de trabalho padrão para um dia normal de trabalho. Essas horas serão utilizadas em cálculos de relatórios como Utilização de Horas do Funcionário e análise de Rentabilidade do Projeto.
+Enter the number of leaves you want to allocate for the period.,Insira o número de licenças que deseja alocar para o período.
+Error in formula or condition,Erro na fórmula ou condição
+Error in formula or condition: {0} in Income Tax Slab,Erro na fórmula ou condição: {0} na Laje do Imposto de Renda
+Error while evaluating the {doctype} {doclink} at row {row_id}. <br><br> <b>Error:</b> {error} <br><br> <b>Hint:</b> {description},Erro ao avaliar {doctype} {doclink} na linha {row_id}. <br><br> <b>Erro:</b> {error} <br><br> <b>Dica:</b> {descrição}
+Evaluation Method cannot be changed as there are existing appraisals created for this cycle,O Método de Avaliação não pode ser alterado porque existem avaliações criadas para este ciclo
+Every 2 Weeks,A cada 2 semanas
+Every 3 Weeks,A cada 3 semanas
+Every 4 Weeks,A cada 4 semanas
+Every Week,Todas as semanas
+"Everyone, let’s congratulate them on their work anniversary!","Pessoal, vamos parabenizá-los pelo aniversário de trabalho!"
+"Everyone, let’s congratulate {0} on their birthday.","Pessoal, vamos parabenizar {0} pelo seu aniversário."
+Exchange Rate cannot be zero.,A Taxa de Câmbio não pode ser zero.
+Exclude Holidays,Excluir feriados
+Excluded {0} Non-Encashable Leaves for {1},Excluídas {0} licenças não recuperáveis para {1}
+Exemption Proofs,Provas de isenção
+Existing Record,Registro Existente
+Existing Shift Assignments,Atribuições de turno existentes
+Exit Confirmed,Saída confirmada
+Exit Details,Detalhes de saída
+Exit Interview,Entrevista de saída
+Exit Interview Pending,Entrevista de saída pendente
+Exit Interview {0} already exists for Employee: {1},A Entrevista de Saída {0} já existe para o Funcionário: {1}
+Exit Questionnaire,Questionário de saída
+Exit Questionnaire Notification,Notificação de saída do questionário
+Exit Questionnaire Notification Template,Modelo de notificação de questionário de saída
+Exit Questionnaire Pending,Questionário de saída pendente
+Exit Questionnaire Web Form,Sair do Formulário Web do Questionário
+Expected Average Rating,Classificação Média Esperada
+Expected By,Esperado por
+Expected Compensation,Compensação Esperada
+Expected Skill Set,Conjunto de habilidades esperado
+Expected Skillset,Conjunto de habilidades esperado
+Expense Approver,Aprovador de despesas
+Expense Claim Summary,Resumo do relatório de despesas
+Expense Claims,Reemb. de Despesas
+Expenses & Advances,Despesas e Adiantamentos
+Expire Leaves,Licença expirada
+Expired Leave(s),Licenças expiradas
+Exporting...,Exportador...
+Failed to create/submit {0} for employees:,Falha ao criar/enviar {0} para funcionários:
+Failed to delete defaults for country {0}.,Falha ao excluir padrões do país {0}.
+Failed to download Salary Slip PDF,Falha ao baixar o PDF do comprovante de salário
+Failed to send the Interview Reschedule notification. Please configure your email account.,Falha ao enviar a notificação de reagendamento de entrevista. Por favor configure sua conta de e-mail.
+Failed to setup defaults for country {0}.,Falha ao configurar padrões para o país {0}.
+Failed to submit some leave policy assignments:,Falha ao enviar algumas atribuições de política de licença:
+Failed to update the Job Applicant status,Falha ao atualizar o status do candidato a emprego
+Failed to {0} {1} for employees:,Falha ao {0} {1} para funcionários:
+Failure Details,Detalhes da falha
+Feedback Count,Contagem de comentários
+Feedback HTML,HTML de comentários
+Feedback Ratings,Avaliações de feedback
+Feedback Reminder Notification Template,Modelo de notificação de lembrete de feedback
+Feedback Score,Pontuação de feedback
+Feedback Summary,Resumo de comentários
+Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue.,Feedback já enviado para a Entrevista {0}. Cancele o feedback da entrevista anterior {1} para continuar.
+Feedback cannot be recorded for an absent Employee.,O feedback não pode ser registrado para um funcionário ausente.
+Feedback {0} added successfully,Feedback {0} adicionado com sucesso
+Fetch Geolocation,Buscar geolocalização
+Fetch Shift,Buscar turno
+Fetch Shifts,Buscar turnos
+Fetching Employees,Buscando funcionários
+Fetching Shift,Buscando turno
+Fetching your geolocation,Buscando sua geolocalização
+File Preview,Pré-visualização do arquivo
+Filled,Preenchido
+Filter Employees,Filtrar funcionários
+Filter List,Lista de filtros
+Final Decision,Decisão final
+Final Score,Pontuação Final
+Final Score Formula,Fórmula de pontuação final
+First Day,Primeiro dia
+First Name ,Primeiro nome
+FnF Pending,FnF pendente
+For Designation ,Para Designação
+"For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.","Para um dia de licença gozada, se você ainda pagar (digamos) 50% do salário diário, insira 0,50 neste campo."
+Fraction of Applicable Earnings ,Fração de ganhos aplicáveis
+Fraction of Daily Salary per Leave,Fração do salário diário por licença
+Fractional Cost,Custo Fracionário
+Frappe HR,Greve de RH
+From Date must come before To Date,A data inicial deve vir antes da data final
+From User,Do usuário
+"From here, you can enable encashment for the balance leaves.","A partir daqui, você pode ativar o pagamento das folhas de saldo."
+From {0} to {1},De {0} a {1}
+From(Year),De (ano)
+Fuchsia,Fúcsia
+Fuel Expenses,Despesas de Combustível
+Full and Final Asset,Ativo total e final
+Full and Final Outstanding Statement,Declaração Pendente Completa e Final
+Future Income Tax,Imposto de Renda Futuro
+Geolocation,Geolocalização
+Geolocation Error,Erro de geolocalização
+Geolocation is not supported by your current browser,A geolocalização não é suportada pelo seu navegador atual
+Get Job Requisitions,Obtenha requisições de trabalho
+Get the app on your device for easy access & a better experience!,Obtenha o aplicativo no seu dispositivo para acesso fácil e uma experiência melhor!
+Get the app on your iPhone for easy access & a better experience,Obtenha o aplicativo no seu iPhone para acesso fácil e uma experiência melhor
+Go to Login,Vá para Entrar
+Goal Completion (%),Conclusão da meta (%)
+Goal Score,Pontuação do gol
+Goal Score (%),Pontuação de gols (%)
+Goal Score (weighted),Pontuação da meta (ponderada)
+Goal progress percentage cannot be more than 100.,A porcentagem de progresso da meta não pode ser superior a 100.
+Goal should be aligned with the same KRA as its parent goal.,A meta deve estar alinhada com o mesmo KRA de sua meta principal.
+Goal should be owned by the same employee as its parent goal.,A meta deve pertencer ao mesmo funcionário que sua meta pai.
+Goal should belong to the same Appraisal Cycle as its parent goal.,A meta deve pertencer ao mesmo Ciclo de Avaliação que sua meta pai.
+Goal updated successfully,Meta atualizada com sucesso
+Goals updated successfully,Metas atualizadas com sucesso
+Grade,Nota
+Gratuity,Gratificação
+Gratuity Applicable Component,Componente aplicável à gorjeta
+Gratuity Rule,Regra de gratuidade
+Gratuity Rule Slab,Laje de regra de gratificação
+Grievance Against,Reclamações contra
+Grievance Against Party,Reclamações contra o partido
+Grievance Details,Detalhes da reclamação
+Grievance Type,Tipo de reclamação
+Gross Earnings,Lucro Bruto
+Gross Pay (Company Currency),Pagamento bruto (moeda da empresa)
+Gross Year To Date,Ano bruto até o momento
+Gross Year To Date(Company Currency),Acumulado no ano bruto (moeda da empresa)
+Group goal's progress is auto-calculated based on the child goals.,O progresso da meta do grupo é calculado automaticamente com base nas metas secundárias.
+HR,RH
+HR & Payroll,RH e folha de pagamento
+HR & Payroll Settings,Configurações de RH e folha de pagamento
+HR-APR-.YYYY.-,HR-ABR-.AAAA.-
+HR-EXIT-INT-,RH-SAIR-INT-
+HR-HIREQ-,RH-CONTRATAÇÃOQ-
+HRMS,SGRH
+Half Day Marked Employee Header,Cabeçalho de funcionário marcado para meio dia
+Half Day Records,Registros de meio dia
+Health Insurance,Seguro Saúde
+Health Insurance No,Seguro de saúde Não
+Health Insurance Provider,Provedor de seguro saúde
+Hey {}! This email is to remind you about the upcoming holidays.,Ei {}! Este e-mail é para lembrá-lo sobre os próximos feriados.
+Hiring Count,Contagem de contratações
+Holidays this Month.,Feriados este mês.
+Holidays this Week.,Feriados esta semana.
+Home,Home
+Horizontal Break,Quebra horizontal
+Hour Rate (Company Currency),Taxa horária (moeda da empresa)
+"If checked, Payroll Payable will be booked against each employee","Se marcada, a Folha de Pagamento a Pagar será contabilizada em relação a cada funcionário"
+"If enabled, auto attendance will be marked on holidays if Employee Checkins exist","Se ativado, o atendimento automático será marcado em feriados se existirem check-ins de funcionários"
+"If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid","Se habilitado, deduz dias de pagamento por faltas em feriados. Por padrão, os feriados são considerados pagos"
+"If enabled, the amount will be excluded from accounting entries during Journal Entry creation.","Se ativado, o valor será excluído dos lançamentos contábeis durante a criação do lançamento contábil manual."
+"If enabled, the component will be considered as a tax component and the amount will be auto-calculated as per the configured income tax slabs","Se habilitado, o componente será considerado como componente tributário e o valor será calculado automaticamente conforme as lajes de Imposto de Renda configuradas"
+"If enabled, the component will be considered in the Income Tax Deductions report","Se habilitado, o componente será considerado no relatório Deduções do Imposto de Renda"
+"If enabled, the component will not be displayed in the salary slip if the amount is zero","Se habilitado, o componente não será exibido no comprovante de salário se o valor for zero"
+"If enabled, the total no. of applications received for this opening will be displayed on the website","Se ativado, o número total. das inscrições recebidas para esta vaga serão divulgadas no site"
+"If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ","Se habilitado, o valor especificado ou calculado neste componente não contribuirá para os rendimentos ou deduções. Porém, seu valor pode ser referenciado por outros componentes que podem ser somados ou deduzidos."
+"If enabled, total no. of working days will include holidays, and this will reduce the value of Salary Per Day","Se ativado, total não. de dias úteis incluirá feriados, e isso reduzirá o valor do Salário por Dia"
+"If set, the job opening will be closed automatically after this date","Se definido, a vaga será fechada automaticamente após esta data"
+"If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll.","Se você estiver usando empréstimos em comprovantes de salário, instale o aplicativo {0} do Frappe Cloud Marketplace ou GitHub para continuar usando a integração do empréstimo com a folha de pagamento."
+"In case of any error during this background process, the system will add a comment about the error on this Payroll Entry and revert to the Submitted status","Caso ocorra algum erro durante esse processo em background, o sistema adicionará um comentário sobre o erro neste Lançamento da Folha de Pagamento e reverterá para o status Enviado"
+Incentive,Incentivo
+Include Company Descendants,Incluir descendentes da empresa
+Include Holidays,Incluir feriados
+Income Source,Fonte de renda
+Income Tax Breakup,Separação do Imposto de Renda
+Income Tax Computation,Cálculo do Imposto de Renda
+Income Tax Deducted Till Date,Imposto de renda deduzido até a data
+Income Tax Slab is mandatory since the Salary Structure {0} has a tax component {1},"A Tabela de Imposto de Renda é obrigatória, pois a Estrutura Salarial {0} possui um componente tributário {1}"
+Income from Other Sources,Renda de outras fontes
+Incorrect Weightage Allocation,Alocação de peso incorreta
+"Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired","Indica o número de licença que não podem ser cobradas do saldo de férias. Por exemplo com um saldo de licenças de 10 e 4 folhas não recuperáveis, você pode acumular 6, enquanto as 4 restantes podem ser transportadas ou expiradas"
+Install,Instalar
+Install Frappe HR,Instale o Frappe HR
+Insufficient Balance,Saldo insuficiente
+Insufficient leave balance for Leave Type {0},Saldo de licença insuficiente para o tipo de licença {0}
+Interest Income Account,Conta de receita de juros
+Interview,Entrevista
+Interview Detail,Detalhes da entrevista
+Interview Details,Detalhes da entrevista
+Interview Feedback,Feedback da entrevista
+Interview Feedback Reminder,Lembrete de feedback da entrevista
+Interview Feedback {0} submitted successfully,Feedback da entrevista {0} enviado com sucesso
+Interview Not Rescheduled,Entrevista não remarcada
+Interview Reminder,Lembrete de entrevista
+Interview Reminder Notification Template,Modelo de notificação de lembrete de entrevista
+Interview Rescheduled successfully,Entrevista remarcada com sucesso
+Interview Round,Rodada de entrevistas
+Interview Round {0} is only applicable for the Designation {1},A Rodada de Entrevistas {0} é aplicável apenas para a Designação {1}
+Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2},A Rodada de Entrevistas {0} é apenas para a Designação {1}. O candidato a emprego se inscreveu para a função {2}
+Interview Scheduled Date,Data agendada para entrevista
+Interview Status,Status da entrevista
+Interview Summary,Resumo da entrevista
+Interview Type,Tipo de entrevista
+Interview: {0} Rescheduled,Entrevista: {0} remarcada
+Interviewer,Entrevistador
+Interviewers,Entrevistadores
+Invalid Action,Ação inválida
+Invalid Additional Salary,Salário Adicional Inválido
+Invalid Dates,Datas inválidas
+Invalid Leave Ledger Entry,Entrada de razão de licença inválida
+Invalid Payroll Payable Account. The account currency must be {0} or {1},Conta a pagar de folha de pagamento inválida. A moeda da conta deve ser {0} ou {1}
+Invalid Shift Times,Horários de turno inválidos
+Invalid parameters provided. Please pass the required arguments.,"Parâmetros inválidos fornecidos. Por favor, passe os argumentos necessários."
+Investigated,Investigado
+Investigation Details,Detalhes da investigação
+Is Applicable for Referral Bonus,É aplicável para bônus de indicação
+Is Compensatory Leave,É licença compensatória
+Is Partially Paid Leave,É licença parcialmente remunerada
+Is Recurring Additional Salary,É salário adicional recorrente
+Is Salary Released,O salário é liberado
+Is Salary Withheld,O salário é retido
+Job Applicant,Candidato a emprego
+Job Applicant {0} created successfully.,Candidato a emprego {0} criado com sucesso.
+Job Applicants are not allowed to appear twice for the same Interview round. Interview {0} already scheduled for Job Applicant {1},Os candidatos a emprego não podem comparecer duas vezes para a mesma rodada de entrevistas. Entrevista {0} já agendada para o candidato a emprego {1}
+Job Application Route,Rota de candidatura a emprego
+Job Offer Term Template,Modelo de termo de oferta de emprego
+Job Opening Associated,Vaga de Emprego Associada
+Job Openings,Vagas de emprego
+Job Openings for the designation {0} are already open or the hiring is complete as per the Staffing Plan {1},As vagas para a designação {0} já estão abertas ou a contratação foi concluída conforme Plano de Pessoal {1}
+Job Requisition,Requisição de Trabalho
+Job Requisition {0} has been associated with Job Opening {1},A requisição de emprego {0} foi associada à vaga de emprego {1}
+KRA Evaluation Method,Método de avaliação KRA
+KRA updated for all child goals.,KRA atualizado para todos os objetivos infantis.
+KRA vs Goals,KRA vs Gols
+KRAs,KRAs
+Key Result Area,Área de resultados principais
+Last Day,Último dia
+Last Odometer Value ,Último valor do odômetro
+Late Entries,Entradas atrasadas
+Late Entry & Early Exit Settings for Auto Attendance,Configurações de entrada tardia e saída antecipada para atendimento automático
+Late Entry By,Entrada tardia por
+Latitude and longitude values are required for checking in.,Os valores de latitude e longitude são obrigatórios para o check-in.
+Leave Allocation Exists,A alocação de licença existe
+Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,O período de solicitação de licença não pode ocorrer entre duas alocações de licença não consecutivas {0} e {1}.
+Leave Approver,Deixar aprovador
+Leave Block List,Sair da lista de bloqueios
+Leave Details,Deixe detalhes
+Leave Ledger,Sair do razão
+"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}","A data final da entrada do razão deve ser posterior à data inicial. Atualmente, a data inicial é {0} e a data final é {1}"
+Leave Policy Assignment,Deixar atribuição de política
+Leave Policy Assignment Overlap,Deixar sobreposição de atribuição de política
+Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Política de licença: {0} já atribuído ao Funcionário {1} para o período {2} a {3}
+Leave Type can either be compensatory or earned leave.,O tipo de licença pode ser licença compensatória ou merecida.
+Leave Type can either be without pay or partial pay,O tipo de licença pode ser sem remuneração ou com remuneração parcial
+Leave Type is mandatory,O tipo de licença é obrigatório
+Leave allocation {0} is linked with the Leave Application {1},A alocação de licença {0} está vinculada ao Pedido de Licença {1}
+Leave already have been assigned for this Leave Policy Assignment,As licenças já foram atribuídas para esta atribuição de política de licenças
+Leave and Expense Claim Settings,Configurações de licença e relatório de despesas
+Leave of type {0} cannot be longer than {1}.,A licença do tipo {0} não pode ser superior a {1}.
+Leave(s) Expired,Licença(s) expirada(s)
+Leave(s) Pending Approval,Licença(s) com aprovação pendente
+Leave(s) Taken,Licença(s) tirada(s)
+Leaves & Holidays,Férias e Feriados
+Leaves Expired,Férias Expiradas
+Leaves Pending Approval,Férias Pendentes de Aprovação
+Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,"As férias do tipo {0} não serão transferidas, uma vez que a opção de transferência está desativada."
+Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,Férias que pode usufruir em compensação por um feriado em que trabalhou. Pode solicitar uma Licença Compensatória através do Pedido de Licença Compensatória. Clique em {0} para saber mais
+Lime,Lima
+Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,Vincule o ciclo e marque KRA à sua meta para atualizar a pontuação da meta da avaliação com base no progresso da meta
+Linked Project {} and Tasks deleted.,Projeto vinculado {} e tarefas excluídas.
+Loan Account,Conta de empréstimo
+Loan Product,Produto de empréstimo
+Loan Repayment,Reembolso de Empréstimo
+Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},O empréstimo não pode ser reembolsado com base no salário do Funcionário {0} porque o salário é processado na moeda {1}
+Login Failed,Falha no login
+Lower Range,Faixa inferior
+Make Bank Entry,Faça entrada bancária
+Mandatory fields required for this action:,Campos obrigatórios para esta ação:
+Mandatory fields required in {0},Campos obrigatórios exigidos em {0}
+Manual Rating,Classificação manual
+Mark Auto Attendance on Holidays,Marcar atendimento automático em feriados
+Mark as Completed,Marcar como concluído
+Mark as In Progress,Marcar como em andamento
+Mark as {0},Marcar como {0}
+Mark attendance as {0} for {1} on selected dates?,Marcar presença como {0} para {1} nas datas selecionadas?
+Mark attendance for existing check-in/out logs before changing shift settings,Marque a presença nos registros de check-in/out existentes antes de alterar as configurações de turno
+Mark {0} as Completed?,Marcar {0} como concluído?
+Mark {0} {1} as {2}?,Marcar {0} {1} como {2}?
+Marking Attendance,Marcando Presença
+Maximum Consecutive Leaves Allowed,Máximo de Dias Consecutivos de Férias Permitidos
+Maximum Consecutive Leaves Exceeded,Máximo de Dias Consecutivos de Férias Excedido
+Maximum Encashable Leaves,Máximo de Dias de Férias Convertíveis em Pagamento
+Maximum Leave Allocation Allowed per Leave Period,Alocação máxima de férias permitida por período de licença
+Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit,Rendimento tributável anual máximo elegível para redução fiscal total. Nenhum imposto é aplicado se a renda não exceder esse limite
+Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component amount and previous claimed amount,O benefício máximo do funcionário {0} excede {1} pela soma {2} do valor do componente proporcional do pedido de benefício e do valor reivindicado anteriormente
+Maximum benefit of employee {0} exceeds {1} by the sum {2} of previous claimed amount,O benefício máximo do funcionário {0} excede {1} pela soma {2} do valor reivindicado anteriormente
+Maximum encashable leaves for {0} are {1},O máximo de licenças resgatáveis para {0} é {1}
+Minimum Year for Gratuity,Ano mínimo para gorjeta
+Minimum working days required since Date of Joining to apply for this leave,Dias úteis mínimos exigidos desde a data de adesão para solicitar esta licença
+Missing Advance Account,Falta de conta antecipada
+Missing Field,Campo ausente
+Missing Fields,Campos ausentes
+Missing Mandatory Field,Campo obrigatório ausente
+Missing Opening Entries,Entradas de abertura ausentes
+Missing Relieving Date,Data de alívio ausente
+Missing Salary Components,Componentes salariais ausentes
+Missing Tax Slab,Placa fiscal ausente
+Month To Date,Do mês até a data
+Month To Date(Company Currency),Acumulado no mês (moeda da empresa)
+More,Mais
+Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.,Existem vários salários adicionais com propriedade de substituição para o componente salarial {0} entre {1} e {2}.
+Multiple Shift Assignments,Atribuições de múltiplos turnos
+My Account,Minha conta
+Name error,Erro de nome
+Net Pay (Company Currency),Pagamento líquido (moeda da empresa)
+Net Pay Info,Informações de pagamento líquido
+New Feedback,Novos comentários
+New Leave(s) Allocated,Nova(s) licença(s) alocada(s)
+New shift assignments will be created after this date.,Novas atribuições de turno serão criadas após esta data.
+No Employees Selected,Nenhum funcionário selecionado
+No Interview has been scheduled.,Nenhuma entrevista foi agendada.
+No Leave Period Found,Nenhum período de licença encontrado
+No Salary Slip found for Employee: {0},Nenhum comprovante de salário encontrado para o funcionário: {0}
+No Salary Structure Assignment found for employee {0} on or before {1},Nenhuma atribuição de estrutura salarial encontrada para o funcionário {0} em ou antes de {1}
+No Salary Structure assigned to Employee {0} on the given date {1},Nenhuma estrutura salarial atribuída ao funcionário {0} na data especificada {1}
+No Salary Structures,Sem estruturas salariais
+No Shift Requests Selected,Nenhuma solicitação de turno selecionada
+No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access.,Nenhum funcionário ativo encontrado associado ao ID de e-mail {0}. Tente fazer login com seu ID de e-mail de funcionário ou entre em contato com seu gerente de RH para obter acesso.
+No applicable Earning component found in last salary slip for Gratuity Rule: {0},Nenhum componente de ganho aplicável foi encontrado no último comprovante de salário para a regra de gratificação: {0}
+No applicable Earning components found for Gratuity Rule: {0},Nenhum componente de ganho aplicável foi encontrado para a regra de gratificação: {0}
+No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0},Nenhuma laje aplicável foi encontrada para o cálculo do valor da gorjeta de acordo com a Regra de Gratificação: {0}
+No attendance records found for this criteria.,Nenhum registro de frequência encontrado para este critério.
+No attendance records found.,Nenhum registro de presença encontrado.
+No attendance records to create,Não há registros de presença para criar
+No changes found in timings.,Nenhuma alteração encontrada nos horários.
+No employees found,Nenhum funcionário encontrado
+No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2},Nenhum funcionário encontrado para os critérios mencionados:<br>Empresa: {0}<br> Moeda: {1}<br>Conta a pagar da folha de pagamento: {2}
+No employees found for the selected criteria,Nenhum funcionário encontrado para os critérios selecionados
+No employees found with selected filters and active salary structure,Nenhum funcionário encontrado com filtros selecionados e estrutura salarial ativa
+No feedback has been received yet,Nenhum feedback foi recebido ainda
+No items selected,Nenhum item selecionado
+No leaves have been allocated.,Nenhuma licença foi alocada.
+No of. Positions,Não de. Posições
+No valid shift found for log time,Nenhum turno válido encontrado para o horário de registro
+No {0} Selected,Nenhum {0} selecionado
+Non Taxable Earnings,Lucros não tributáveis
+Non-Billed Hours,Horas não faturadas
+Non-Billed Hours (NB),Horas Não Faturadas (NB)
+Non-Encashable Leaves,Licenças não monetizáveis
+Note: Shift will not be overwritten in existing attendance records,Nota: O turno não será substituído nos registros de presença existentes
+Note: Total allocated leaves {0} shouldn't be less than already approved leaves {1} for the period,Nota: O total de licenças alocadas {0} não deve ser inferior às licenças já aprovadas {1} para o período
+"Note: Your salary slip is password protected, the password to unlock the PDF is of the format {0}.","Obs: Seu comprovante de salário é protegido por senha, a senha para desbloquear o PDF é no formato {0}."
+Notification Template,Modelo de notificação
+Number of Withholding Cycles,Número de ciclos de retenção
+Number of leaves eligible for encashment based on leave type settings,Número de licenças elegíveis para cobrança com base nas configurações de tipo de licença
+Obtained Average Rating,Classificação média obtida
+Odometer Value,Valor do odômetro
+Off-Shift,Fora do turno
+Off-shift,Fora do turno
+Offer Terms,Termos da oferta
+Onboarding Activities,Atividades de integração
+Onboarding Begins On,A integração começa em
+Only Completed documents can be submitted,Somente documentos preenchidos podem ser enviados
+Only Employee Grievance with status {0} or {1} can be submitted,Somente reclamações de funcionários com status {0} ou {1} podem ser enviadas
+Only Interviewer Are allowed to submit Interview Feedback,Somente o entrevistador pode enviar feedback da entrevista
+Only Interviews with Cleared or Rejected status can be submitted.,Somente entrevistas com status Liberado ou Rejeitado podem ser enviadas.
+Only interviewers can submit feedback,Somente entrevistadores podem enviar feedback
+Only {0} Goals can be {1},Somente {0} metas podem ser {1}
+Open & Approved,Aberto e aprovado
+Open Feedback,Comentários abertos
+Open Now,Abra agora
+Opening Balances,Saldos iniciais
+Opening closed.,Abertura fechada.
+Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company.,As Férias Facultativas são feriados que os Colaboradores podem optar por usufruir a partir de uma lista de feriados publicada pela empresa.
+Organizational Chart,Organograma
+Out of 5,De 5
+Over Allocation,Sobrealocação
+Overall Average Rating,Classificação média geral
+Overlapping Attendance Request,Solicitação de presença sobreposta
+Overlapping Shift Attendance,Sobreposição de presença em turnos
+Overlapping Shift Requests,Sobreposição de solicitações de turno
+Overlapping Shifts,Sobreposição de turnos
+PWA Notification,Notificação PWA
+Paid via Salary Slip,Pago via comprovante de salário
+Parent Goal,Meta pai
+Partly Claimed and Returned,Parcialmente reivindicado e devolvido
+Pay Via Payment Entry,Pague via entrada de pagamento
+Pay via Salary Slip,Pague via comprovante de salário
+Payable Account is mandatory to submit an Expense Claim,A conta a pagar é obrigatória para enviar um relatório de despesas
+Payment Date,Data de pagamento
+Payment Days Calculation Help,Ajuda para cálculo de dias de pagamento
+Payment Days Dependency,Dependência de dias de pagamento
+Payment Days calculations are based on these Payroll Settings,Os cálculos dos dias de pagamento são baseados nestas configurações de folha de pagamento
+Payment and Accounting,Pagamento e Contabilidade
+Payroll Based On,Folha de pagamento baseada em
+Payroll Cost Center,Centro de Custo da Folha de Pagamento
+Payroll Cost Centers,Centros de custos de folha de pagamento
+Payroll Entry cancellation is queued. It may take a few minutes,O cancelamento da entrada da folha de pagamento está na fila. Pode demorar alguns minutos
+Payroll Info,Informações da folha de pagamento
+Payroll Payable Account,Conta a pagar de folha de pagamento
+Pending (unpaid) amount from previous advances,Valor pendente (não pago) de adiantamentos anteriores
+Pending Asset Returns,Devoluções de ativos pendentes
+Pending FnF,FnF pendente
+Pending Interviews,Entrevistas pendentes
+Pending Questionnaires,Questionários pendentes
+Pink,Rosa
+Please Enable Auto Attendance and complete the setup first.,Ative o atendimento automático e conclua a configuração primeiro.
+Please Select Company First,Selecione a empresa primeiro
+Please add the remaining benefits {0} to the application as pro-rata component,Adicione os benefícios restantes {0} à inscrição como componente proporcional
+Please assign a Salary Structure for Employee {0} applicable from or before {1} first,Atribua primeiro uma estrutura salarial para o funcionário {0} aplicável a partir de ou antes de {1}
+Please check if employee is on leave or attendance with the same status exists for selected day(s).,Verifique se o funcionário está de licença ou se existe presença com o mesmo status no(s) dia(s) selecionado(s).
+Please create a new {0} for the date {1} first.,Crie primeiro um novo {0} para a data {1}.
+Please delete the Employee {0} to cancel this document,Exclua o Funcionário {0} para cancelar este documento
+Please reduce {0} to avoid shift time overlapping with itself,Reduza {0} para evitar que o horário do turno se sobreponha a si mesmo
+Please see attachment,Por favor veja anexo
+Please select From Date and Payroll Frequency first,Selecione a data inicial e a frequência da folha de pagamento primeiro
+Please select From Date.,Selecione Da data.
+Please select Shift Schedule and assignment date(s).,Selecione o horário do turno e a(s) data(s) de atribuição.
+Please select Shift Type and assignment date(s).,Selecione o tipo de turno e a(s) data(s) da atribuição.
+Please select a company first,Selecione uma empresa primeiro
+Please select a company first.,Selecione uma empresa primeiro.
+Please select a date.,Selecione uma data.
+Please select an Applicant,Selecione um candidato
+Please select at least one Shift Request to perform this action.,Selecione pelo menos uma solicitação de turno para executar esta ação.
+Please select at least one employee to perform this action.,Selecione pelo menos um funcionário para realizar esta ação.
+Please select at least one row to perform this action.,Selecione pelo menos uma linha para executar esta ação.
+Please select company.,Por favor selecione a empresa.
+Please select employee first,Selecione o funcionário primeiro
+Please select employees to create appraisals for,Selecione funcionários para criar avaliações para
+Please select half day attendance status.,Selecione o status de participação de meio dia.
+Please select month and year.,Selecione mês e ano.
+Please select the Appraisal Cycle first.,Selecione primeiro o Ciclo de Avaliação.
+Please select the attendance status.,Selecione o status de atendimento.
+Please select the employees you want to mark attendance for.,Selecione os funcionários para os quais deseja marcar presença.
+Please select the salary slips to email,Selecione os comprovantes de salário para enviar por e-mail
+"Please set ""Default Payroll Payable Account"" in Company Defaults","Defina ""Conta de folha de pagamento padrão"" nos padrões da empresa"
+Please set Basic and HRA component in Company {0},Defina os componentes Básico e HRA na Empresa {0}
+Please set Earning Component for Leave type: {0}.,Defina o componente de ganho para o tipo de licença: {0}.
+Please set Relieving Date for employee: {0},Defina a data de demissão para o funcionário: {0}
+Please set a Default Cash Account in Company defaults,Defina uma conta de caixa padrão nos padrões da empresa
+Please set account in Salary Component {0},Defina a conta no Componente Salarial {0}
+Please set the Appraisal Template for all the {0} or select the template in the Employees table below.,Defina o modelo de avaliação para todos os {0} ou selecione o modelo na tabela Funcionários abaixo.
+Please set the Holiday List.,"Por favor, defina a lista de feriados."
+Please set the relieving date for employee {0},Defina a data de demissão para o funcionário {0}
+Please set {0} and {1} in {2}.,Defina {0} e {1} em {2}.
+Please set {0} for Employee {1},Defina {0} para o Funcionário {1}
+Please set {0} for the Employee: {1},Defina {0} para o Funcionário: {1}
+Please set {0}.,Defina {0}.
+Please specify the job applicant to be updated.,Especifique o candidato ao emprego a ser atualizado.
+"Please specify {0} and {1} (if any), for the correct tax calculation in future salary slips.","Especifique {0} e {1} (se houver), para o cálculo correto do imposto em futuros comprovantes de salário."
+Please submit the {0} before marking the cycle as Completed,Envie o {0} antes de marcar o ciclo como Concluído
+Posted On,Postado em
+Posting date,Data de postagem
+Present Records,Registros atuais
+Prevent self approval for expense claims even if user has permissions,"Impedir a autoaprovação de declarações de despesas, mesmo que o usuário tenha permissões"
+Prevent self approval for leaves even if user has permissions,Impedir a autoaprovação de licenças mesmo que o usuário tenha permissões
+Principal Amount,Valor principal
+Printed On {0},Impresso em {0}
+Process Payroll Accounting Entry based on Employee,Processar lançamento contábil da folha de pagamento com base no funcionário
+Process Requests,Processar Solicitações
+Process Shift Requests,Solicitações de mudança de processo
+Process leave encashment via a separate Payment Entry instead of Salary Slip,Processar o pagamento de licenças por meio de uma entrada de pagamento separada em vez do comprovante de salário
+Process {0} Shift Request(s) as <b>{1}</b>?,Processar {0} solicitações de turno como <b>{1}</b>?
+Processing Requests,Processando Solicitações
+Processing Requests...,Processando Solicitações...
+Processing of Shift Requests has been queued. It may take a few minutes.,O processamento de solicitações de turno foi enfileirado. Pode demorar alguns minutos.
+Profit,Lucro
+Publish Applications Received,Publicar inscrições recebidas
+Publish Salary Range,Publicar faixa salarial
+Purpose & Amount,Finalidade e Quantidade
+Questionnaire Email Sent,Questionário enviado por e-mail
+Quick Filters,Filtros rápidos
+Quick Links,Links rápidos
+Radius within which check-in is allowed (in meters),Raio dentro do qual o check-in é permitido (em metros)
+Rate Goals Manually,Avaliar metas manualmente
+Rating Criteria,Critérios de classificação
+Ratings,Avaliações
+Reason for Requesting,Motivo da solicitação
+Reason for Withholding Salary,Motivo da retenção de salário
+Reason for skipping auto attendance:,Motivo para pular o atendimento automático:
+Recent Attendance Requests,Solicitações de participação recentes
+Recent Expenses,Despesas recentes
+Recent Leaves,Licenças recentes
+Recent Shift Requests,Solicitações de turno recentes
+Recommended for a single biometric device / checkins via mobile app,Recomendado para um único dispositivo biométrico/checkins via aplicativo móvel
+Recover Cost,Recuperar custo
+Reducing maximum leaves allowed after allocation may cause scheduler to allocate incorrect number of earned leaves. Proceed with caution.,A redução do número máximo de licenças permitidas após a alocação pode fazer com que o agendador aloque um número incorreto de licenças ganhas. Proceda com cautela.
+Reference: {0},Referência: {0}
+Referral Bonus Payment Status,Status de pagamento do bônus de indicação
+Referral Details,Detalhes de referência
+Referrer,Referenciador
+Referrer Details,Detalhes do referenciador
+Referrer Name,Nome do referenciador
+Reflections,Reflexões
+Reject,Rejeitar
+Reject Employee Referral,Rejeitar indicação de funcionário
+Release Withheld Salaries,Liberar salários retidos
+Released,Lançado
+Relieving Date ,Data de alívio
+Relieving Date Missing,Alívio de data ausente
+Reminders,Lembretes
+Remove if Zero Valued,Remover se tiver valor zero
+Repay From Salary,Reembolsar do salário
+Repay Unclaimed Amount from Salary,Reembolsar valor não reclamado do salário
+Repeat On Days,Repetir em dias
+Reports To,Relatórios para
+Request Attendance,Solicitar presença
+Request a Leave,Solicite uma licença
+Request a Shift,Solicite um turno
+Requested By,Solicitado por
+Requested By (Name),Solicitado por (Nome)
+Required Skills,Habilidades necessárias
+Reschedule Interview,Reagendar Entrevista
+Restrict Backdated Leave Application,Restringir pedido de licença retroativo
+Resume Link,Link de currículo
+Resume link,Link de currículo
+Retained,Retido
+Retirement Age (In Years),Idade de aposentadoria (em anos)
+Return amount cannot be greater than unclaimed amount,O valor devolvido não pode ser maior que o valor não reclamado
+Review various other settings related to Employee Leaves and Expense Claim,Revise várias outras configurações relacionadas a licenças de funcionários e relatório de despesas
+Reviewer,Revisor
+Reviewer Name,Nome do revisor
+Revised CTC,CTC revisado
+Roster,Lista
+Roster Color,Cor da lista
+Round Name,Nome redondo
+Round off Work Experience,Completar a experiência de trabalho
+Route to the custom Job Application Webform,Direcione para o formulário on-line de solicitação de emprego personalizado
+Row #{0}: The {1} Component has the options {2} and {3} enabled.,Linha #{0}: O componente {1} tem as opções {2} e {3} ativadas.
+Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1},Linha #{0}: o valor do quadro de horários substituirá o valor do componente de ganhos do componente de salário {1}
+Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2},Linha nº {0}: O valor não pode ser maior que o valor pendente da declaração de despesas {1}. O valor pendente é {2}
+Row {0}# Paid Amount cannot be greater than Encashment amount,Linha {0}# Valor pago não pode ser maior que o valor do saque
+Row {0}# Paid Amount cannot be greater than Total amount,Linha {0}# Valor pago não pode ser maior que o valor total
+Row {0}: From (Year) can not be greater than To (Year),Linha {0}: De (Ano) não pode ser maior que Até (Ano)
+Row {0}: Goal Score cannot be greater than 5,Linha {0}: a pontuação da meta não pode ser maior que 5
+Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},Linha {0}: O valor pago {1} é maior que o valor acumulado pendente {2} contra o empréstimo {3}
+Row {0}: {1},Linha {0}: {1}
+Rules,Regras
+Salary Component ,Componente Salarial
+Salary Component {0} is currently not used in any Salary Structure.,O Componente Salarial {0} atualmente não é usado em nenhuma Estrutura Salarial.
+Salary Expectation,Expectativa salarial
+Salary Paid Per,Salário pago por
+Salary Range,Faixa salarial
+Salary Slip,Comprovante de Salário
+Salary Slip Leave,Licença de recibo de salário
+Salary Slip already exists for {0} for the given dates,Já existe comprovante de salário de {0} para as datas indicadas
+Salary Slip creation is queued. It may take a few minutes,A criação do comprovante de salário está na fila. Pode demorar alguns minutos
+Salary Slip submission is queued. It may take a few minutes,O envio do comprovante de salário está na fila. Pode demorar alguns minutos
+Salary Slip {0} failed for Payroll Entry {1},Comprovante de salário {0} falhou no lançamento da folha de pagamento {1}
+Salary Slip {0} failed. You can resolve the {1} and retry {0}.,O comprovante de salário {0} falhou. Você pode resolver o {1} e tentar novamente {0}.
+"Salary Slips already exist for employees {}, and will not be processed by this payroll.",Já existem recibos de salário para funcionários {} e não serão processados ​​por esta folha de pagamento.
+Salary Slips submitted for period from {0} to {1},Comprovantes de salário enviados para o período de {0} a {1}
+Salary Structure Assignment field,Campo Atribuição de Estrutura Salarial
+Salary Structure must be submitted before submission of {0},A estrutura salarial deve ser enviada antes do envio de {0}
+Salary Structure {0} does not belong to company {1},Estrutura Salarial {0} não pertence à empresa {1}
+Salary Structures updated successfully,Estruturas Salariais atualizadas com sucesso
+Salary Withholding,Retenção de salário
+Salary Withholding Cycle,Ciclo de retenção salarial
+Salary Withholding {0} already exists for employee {1} for the selected period,Já existe retenção de salário {0} para o funcionário {1} no período selecionado
+"Salary components of type Provident Fund, Additional Provident Fund or Provident Fund Loan are not set up.","Não são constituídas componentes salariais do tipo Fundo de Previdência, Fundo de Previdência Complementar ou Empréstimo do Fundo de Previdência."
+Salary components should be part of the Salary Structure.,Os componentes salariais devem fazer parte da Estrutura Salarial.
+Salary slip emails have been enqueued for sending. Check {0} for status.,E-mails de comprovantes de salário foram enfileirados para envio. Verifique o status de {0}.
+Sanctioned Amount,Valor Sancionado
+Scheduled On,Agendado para
+Scores,Pontuações
+Search for Jobs,Pesquisar empregos
+Select Interview Round First,Selecione a primeira rodada de entrevistas
+Select Interview first,Selecione Entrevista primeiro
+Select Payroll Frequency.,Selecione Frequência da folha de pagamento.
+Select Shift Requests,Selecione solicitações de turno
+Select the Employee for which you want to allocate leaves.,Selecione o funcionário para o qual deseja alocar licenças.
+Select the Employee.,Selecione o Funcionário.
+"Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc.","Selecione o tipo de licença, como licença médica, licença privilegiada, licença casual, etc."
+Select the date after which this Leave Allocation will expire.,Selecione a data após a qual esta alocação de licença expirará.
+Select the date from which this Leave Allocation will be valid.,Selecione a data a partir da qual esta alocação de licença será válida.
+Select the end date for your Leave Application.,Selecione a data de término do seu pedido de licença.
+Select the start date for your Leave Application.,Selecione a data de início do seu pedido de licença.
+Select this if you want shift assignments to be automatically created indefinitely.,Selecione esta opção se desejar que as atribuições de turno sejam criadas automaticamente indefinidamente.
+"Select type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc.","Selecione o tipo de licença que o funcionário deseja solicitar, como Licença Médica, Licença Privilegiada, Licença Casual, etc."
+Select your Leave Approver i.e. the person who approves or rejects your leaves.,"Selecione seu aprovador de licenças, ou seja, a pessoa que aprova ou rejeita suas licenças."
+Self Appraisal,Autoavaliação
+Self Appraisal Pending: {0},Autoavaliação pendente: {0}
+Self Appraisal Score,Pontuação de autoavaliação
+Self Score,Autopontuação
+Self-approval for Expense Claims is not allowed,A autoaprovação para relatórios de despesas não é permitida
+Self-approval for leaves is not allowed,A autoaprovação para licenças não é permitida
+Send Exit Questionnaire,Enviar questionário de saída
+Send Exit Questionnaires,Enviar questionários de saída
+Send Interview Feedback Reminder,Enviar lembrete de feedback da entrevista
+Send Interview Reminder,Enviar lembrete de entrevista
+Send Leave Notification,Enviar notificação de licença
+Sender Email,E-mail do remetente
+Sending Failed due to missing email information for employee(s): {1},Falha no envio devido à falta de informações de e-mail do(s) funcionário(s): {1}
+Sent Successfully: {0},Enviado com sucesso: {0}
+Separation Activities,Atividades de Separação
+Separation Begins On,A separação começa
+"Set ""From(Year)"" and ""To(Year)"" to 0 for no upper and lower limit.","Defina ""From(Year)"" e ""To(Year)"" como 0 para nenhum limite superior e inferior."
+Set Assignment Details,Definir detalhes da tarefa
+Set Leave Details,Definir detalhes da licença
+Set Relieving Date for Employee: {0},Definir data de demissão para funcionário: {0}
+Set filters to fetch employees,Defina filtros para buscar funcionários
+Set opening balances for earnings and taxes from the previous employer,Definir saldos iniciais para rendimentos e impostos do empregador anterior
+Set optional filters to fetch employees in the appraisee list,Defina filtros opcionais para buscar funcionários na lista de avaliados
+Set the frequency for holiday reminders,Defina a frequência dos lembretes de feriados
+Set the properties that should be updated in the Employee master on promotion submission,Definir as propriedades que deverão ser atualizadas no cadastro de funcionários no envio da promoção
+Set the status to {0} if required.,"Defina o status como {0}, se necessário."
+Set {0} for selected employees,Definir {0} para funcionários selecionados
+Settings Missing,Configurações ausentes
+Settle all Payables and Receivables before submission,Liquidar todas as contas a pagar e a receber antes do envio
+Shared document with the user {0} with 'Submit' permission,Documento compartilhado com o usuário {0} com permissão de 'Enviar'
+Shift Actual End Time,Hora de término real do turno
+Shift Actual Start Time,Mudar hora de início real
+Shift Assignment Details,Detalhes da atribuição de turno
+Shift Assignment Tool,Ferramenta de atribuição de turnos
+Shift Assignments created for the schedule between {0} and {1} via background job,Atribuições de turno criadas para a programação entre {0} e {1} por meio de trabalho em segundo plano
+Shift Attendance,Presença de turno
+Shift Details,Detalhes do turno
+Shift End Time,Hora de término do turno
+Shift Location,Localização do turno
+Shift Request Approver,Aprovador de solicitação de turno
+Shift Request Filters,Filtros de solicitação de turno
+Shift Requests ending before this date will be excluded.,Solicitações de turno que terminem antes desta data serão excluídas.
+Shift Requests starting after this date will be excluded.,Solicitações de turno iniciadas após esta data serão excluídas.
+Shift Schedule,Horário de turnos
+Shift Schedule Assignment,Atribuição de horário de turno
+Shift Settings,Configurações de turno
+Shift Start Time,Hora de início do turno
+Shift Status,Status do turno
+Shift Timings,Horários dos turnos
+Shift Tools,Ferramentas de mudança
+Shift assignments for {0} after {1} are already created. Please change {2} date to a date later than {3} {4},As atribuições de turno para {0} após {1} já foram criadas. Altere a data de {2} para uma data posterior a {3} {4}
+Shift has been successfully updated to {0}.,O turno foi atualizado com sucesso para {0}.
+Show Leave Balances in Salary Slip,Mostrar saldos de licenças no comprovante de salário
+Showing,Mostrando
+Single Assignment,Tarefa Única
+Skill Assessment,Avaliação de habilidades
+Skills,Habilidades
+Source and Rating,Fonte e classificação
+Source and target shifts cannot be the same,As mudanças de origem e de destino não podem ser as mesmas
+Staffing Details,Detalhes de pessoal
+Standard Working Hours,Horário de trabalho padrão
+Start date: {0},Data de início: {0}
+Start time and end time cannot be same.,A hora de início e a hora de término não podem ser iguais.
+Status for Other Half,Status para a outra metade
+Submission Failed,Falha no envio
+Submission of {0} before {1} is not allowed,O envio de {0} antes de {1} não é permitido
+Submit Feedback,Enviar comentários
+Submit Now,Enviar agora
+Submit this Leave Application to confirm.,Envie este pedido de licença para confirmar.
+Subsidiary companies have already planned for {1} vacancies at a budget of {2}. Staffing Plan for {0} should allocate more vacancies and budget for {3} than planned for its subsidiary companies,As empresas subsidiárias já planejaram {1} vagas com um orçamento de {2}. O Plano de Pessoal para {0} deve alocar mais vagas e orçamento para {3} do que o planejado para suas subsidiárias
+Successfully created {0} for employees:,{0} criado com sucesso para funcionários:
+Successfully {0} {1} for the following employees:,Com êxito {0} {1} para os seguintes funcionários:
+Sum of all previous slabs,Soma de todas as lajes anteriores
+Sync {0},Sincronizar {0}
+Syntax error,Erro de sintaxe
+Syntax error in condition: {0} in Income Tax Slab,Erro de sintaxe na condição: {0} na Laje do Imposto de Renda
+Take Exact Completed Years,Pegue os anos completos exatos
+Tax Deducted Till Date,Imposto deduzido até a data
+Tax Exemption Declaration,Declaração de isenção fiscal
+Taxable Earnings Till Date,Lucro tributável até a data
+Taxable Income Relief Threshold Limit,Limite de Alívio de Renda Tributável
+Taxes & Charges,Impostos e Taxas
+The currency of {0} should be same as the company's default currency. Please select another account.,A moeda de {0} deve ser igual à moeda padrão da empresa. Selecione outra conta.
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,Data em que o Componente Salarial com Valor contribuirá para Remuneração/Desconto no Comprovante de Salário.
+The day of the month when leaves should be allocated,O dia do mês em que as licenças devem ser alocadas
+The days between {0} to {1} are not valid holidays.,Os dias entre {0} e {1} não são feriados válidos.
+The first Approver in the list will be set as the default Approver.,O primeiro aprovador da lista será definido como o aprovador padrão.
+The fraction of Daily Salary per Leave should be between 0 and 1,A fração do Salário Diário por Licença deve estar entre 0 e 1
+The metrics for this report are calculated based on the {0}. Please set {0} in {1}.,As métricas deste relatório são calculadas com base em {0}. Defina {0} em {1}.
+The metrics for this report are calculated based on {0}. Please set {0} in {1}.,As métricas deste relatório são calculadas com base em {0}. Defina {0} em {1}.
+There is no Salary Structure assigned to {0}. First assign a Salary Stucture.,Não há estrutura salarial atribuída a {0}. Primeiro atribua uma estrutura salarial.
+There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip,Não há Funcionário com Estrutura Salarial: {0}. Atribuir {1} a um funcionário para visualizar o comprovante de salário
+"These leaves are holidays permitted by the company however, availing it is optional for an Employee.","Essas licenças são feriados permitidos pela empresa, porém seu aproveitamento é opcional para o Colaborador."
+This action will prevent making changes to the linked appraisal feedback/goals.,Esta ação impedirá alterações nos comentários/metas da avaliação vinculada.
+"This check-in is outside assigned shift hours and will not be considered for attendance. If a shift is assigned, adjust its time window and Fetch Shift again.","Este check-in ocorre fora do horário de turno designado e não será considerado para comparecimento. Se um turno for atribuído, ajuste sua janela de tempo e busque o turno novamente."
+This compensatory leave will be applicable from {0}.,Esta licença compensatória será aplicável a partir de {0}.
+This error can be due to invalid formula or condition.,Este erro pode ser devido a uma fórmula ou condição inválida.
+This error can be due to invalid syntax.,Este erro pode ser devido a uma sintaxe inválida.
+This error can be due to missing or deleted field.,Este erro pode ser devido a um campo ausente ou excluído.
+This field allows you to set the maximum number of consecutive leaves an Employee can apply for.,Este campo permite definir o número máximo de licenças consecutivas a que um Colaborador pode candidatar-se.
+This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave Policy,Este campo permite definir o número máximo de licenças que podem ser alocadas anualmente para este tipo de licença durante a criação da política de licenças
+This method is only meant for developer mode,Este método destina-se apenas ao modo de desenvolvedor
+This will overwrite the tax component {0} in the salary slip and tax won't be calculated based on the Income Tax Slabs,Isso substituirá o componente fiscal {0} no comprovante de salário e o imposto não será calculado com base nas Placas de Imposto de Renda
+Time Interval,Intervalo de tempo
+Time taken to fill the open positions,Tempo necessário para preencher as vagas abertas
+Time to Fill,Hora de preencher
+Timelines,Cronogramas
+Timesheet Details,Detalhes do quadro de horários
+To User,Para o usuário
+"To allow this, enable {0} under {1}.","Para permitir isso, ative {0} em {1}."
+To apply for a Half Day check 'Half Day' and select the Half Day Date,"Para se inscrever para meio dia, marque 'Meio dia' e selecione a data de meio dia"
+To date cannot be before from date,Até a data não pode ser anterior à data
+"To overwrite the salary component amount for a tax component, please enable {0}","Para substituir o valor do componente salarial por um componente fiscal, ative {0}"
+To(Year),Para (ano)
+To(Year) year can not be less than From(year),Até(Ano) o ano não pode ser inferior a De(ano)
+Today is {0}'s birthday 🎉,Hoje é o aniversário de {0} 🎉
+Today {0} at our Company! 🎉,Hoje {0} na nossa Empresa! 🎉
+Today {0} completed {1} year(s) at our Company! 🎉,Hoje {0} completou {1} ano(s) na nossa Empresa! 🎉
+Total Allocated Leave(s),Total de licenças alocadas
+Total Amount cannot be zero,O valor total não pode ser zero
+Total Asset Recovery Cost,Custo total de recuperação de ativos
+Total Deduction (Company Currency),Dedução total (moeda da empresa)
+Total Earnings,Ganhos totais
+Total Expense Claim (via Expense Claim),Declaração de despesas totais (via declaração de despesas)
+Total Expense Claim (via Expense Claims),Declaração de despesas totais (por meio de declarações de despesas)
+Total Goal Score,Pontuação total de gols
+Total Gross Pay,Salário Bruto Total
+Total Hours (T),Total de horas (T)
+Total Income Tax,Imposto de Renda Total
+Total Interest Amount,Valor total dos juros
+Total Leaves ({0}),Total de licenças ({0})
+Total Loan Repayment,Reembolso total do empréstimo
+Total Net Pay,Salário Líquido Total
+Total Non-Billed Hours,Total de horas não faturadas
+Total Payable Amount,Valor total a pagar
+Total Payment,Pagamento total
+Total Principal Amount,Valor total do principal
+Total Receivable Amount,Valor total a receber
+Total Resignations,Total de Demissões
+Total Self Score,Autopontuação total
+Total allocated leaves are more than maximum allocation allowed for {0} leave type for employee {1} in the period,O total de licenças alocadas é superior à alocação máxima permitida para {0} tipo de licença para o funcionário {1} no período
+Total allocated leaves {0} cannot be less than already approved leaves {1} for the period,O total de licenças alocadas {0} não pode ser menor que as licenças já aprovadas {1} para o período
+Total in words (Company Currency),Total por extenso (moeda da empresa)
+Total leaves allocated cannot exceed annual allocation of {0}.,O total de licenças alocadas não pode exceder a alocação anual de {0}.
+Total salary booked against this component for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date.,Salário total contabilizado neste componente para este empregado desde o início do ano (período processado na folha de pagamento ou ano fiscal) até a data de término do comprovante de salário atual.
+Total salary booked for this employee from the beginning of the month up to the current salary slip's end date.,Salário total contabilizado para este funcionário desde o início do mês até a data de término do comprovante de salário atual.
+Total salary booked for this employee from the beginning of the year (payroll period or fiscal year) up to the current salary slip's end date.,Salário total contabilizado para este funcionário desde o início do ano (período processado na folha de pagamento ou exercício fiscal) até a data de término do comprovante de salário atual.
+"Total weightage for all {0} must add up to 100. Currently, it is {1}%","A ponderação total de todos os {0} deve somar 100. Atualmente, é de {1}%"
+Total working Days Per Year,Total de dias úteis por ano
+Transactions cannot be created for an Inactive Employee {0}.,As transações não podem ser criadas para um funcionário inativo {0}.
+Unable to retrieve your location,Não foi possível recuperar sua localização
+Unarchive,Unchon
+Unclaimed Amount,Valor não reclamado
+Under Review,Em revisão
+Unlink Payment,Desvincular pagamento
+Unlinked Attendance record from Employee Checkins: {},Registro de presença desvinculado de check-ins de funcionários: {}
+Unlinked logs,Registros desvinculados
+Unmarked Check-in Logs Found,Registros de check-in não marcados encontrados
+Unmarked Employee Header,Cabeçalho de funcionário não marcado
+Unmarked Employees HTML,HTML de funcionários não marcados
+Unsettled,Inquieto
+Unsettled Transactions,Transações não liquidadas
+Unsubmitted Appraisals,Avaliações não enviadas
+Untracked Hours,Horas não rastreadas
+Untracked Hours (U),Horas não rastreadas (U)
+Upcoming Holidays Reminder,Lembrete dos próximos feriados
+Upcoming Shifts,Próximos turnos
+Update Job Applicant,Atualizar candidato a emprego
+Update Progress,Progresso da atualização
+Update Salary Structures,Atualizar estruturas salariais
+Update Status,Atualizar status
+Updated status from {0} to {1} for date {2} in the attendance record {3},Status atualizado de {0} para {1} para a data {2} no registro de presença {3}
+Updated the Job Applicant status to {0},Atualizado o status do candidato a emprego para {0}
+Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2},Atualizado o status da oferta de emprego {0} do candidato a emprego vinculado {1} para {2}
+Updated the status of linked Job Applicant {0} to {1},Atualizado o status do candidato a emprego vinculado {0} para {1}
+Upload images or documents,Carregar imagens ou documentos
+Upper Range,Faixa superior
+Used Leave(s),Licença(s) Usada(s)
+Utilization,Utilização
+Vacancies fulfilled,Vagas preenchidas
+Vehicle Expenses,Despesas com veículos
+Vehicle Service Item,Item de serviço do veículo
+View Goals,Ver metas
+View List,Ver lista
+Violet,Violeta
+WARNING: Loan Management module has been separated from ERPNext.,AVISO: O módulo de Gestão de Empréstimos foi separado do ERPNext.
+Warning: Insufficient leave balance for Leave Type {0} in this allocation.,Aviso: Saldo de licenças insuficiente para o Tipo de Licença {0} nesta alocação.
+Warning: Insufficient leave balance for Leave Type {0}.,Aviso: Saldo de licenças insuficiente para o tipo de licença {0}.
+Warning: {0} already has an active Shift Assignment {1} for some/all of these dates.,Aviso: {0} já tem uma Atribuição de Turno ativa {1} para algumas/todas essas datas.
+"When set to 'Inactive', employees with conflicting active shifts will not be excluded.","Quando definido como 'Inativo', os funcionários com turnos ativos conflitantes não serão excluídos."
+Whereas allocation for Compensatory Leaves is automatically created or updated on submission of Compensatory Leave Request.,Já a alocação para Licenças Compensatórias é criada ou atualizada automaticamente no momento do envio da Solicitação de Licença Compensatória.
+Why is this Candidate Qualified for this Position?,Por que este candidato está qualificado para esta posição?
+Withheld,Retido
+Work Anniversaries ,Aniversários de trabalho
+Work Anniversary Reminder,Lembrete de aniversário de trabalho
+Work Experience Calculation Method,Método de cálculo de experiência profissional
+Work References,Referências de trabalho
+Working Days and Hours,Dias e Horários de Trabalho
+Year To Date,No acumulado do ano
+Year To Date(Company Currency),Acumulado no Ano (Moeda da Empresa)
+"Yes, Proceed","Sim, prosseguir"
+"You can claim only an amount of {0}, the rest amount {1} should be in the application as pro-rata component","Você pode reivindicar apenas um valor de {0}, o valor restante {1} deve estar no aplicativo como componente proporcional"
+You can not define multiple slabs if you have a slab with no lower and upper limits.,Não é possível definir múltiplas lajes se tiver uma laje sem limites inferior e superior.
+You can only plan for upto {0} vacancies and budget {1} for {2} as per staffing plan {3} for parent company {4}.,Você só pode planejar até {0} vagas e orçar {1} para {2} de acordo com o plano de pessoal {3} da controladora {4}.
+"You can only upload JPG, PNG, PDF, TXT or Microsoft documents.","Você só pode fazer upload de documentos JPG, PNG, PDF, TXT ou Microsoft."
+You do not have permission to complete this action,Você não tem permissão para concluir esta ação
+You have no upcoming shifts,Você não tem turnos futuros
+"You may add additional details, if any, and submit the offer.","Você pode adicionar detalhes adicionais, se houver, e enviar a oferta."
+You must be within {0} meters of your shift location to check in.,Você deve estar a até {0} metros do local do seu turno para fazer o check-in.
+You were only present for Half Day on {}. Cannot apply for a full day compensatory leave,Você esteve presente apenas durante meio dia em {}. Não é possível solicitar licença compensatória de dia inteiro
+Your Interview session is rescheduled from {0} {1} - {2} to {3} {4} - {5},Sua sessão de entrevista foi remarcada de {0} {1} - {2} para {3} {4} - {5}
+a,um
+active,ativo
+based on,baseado em
+create/submit,criar/enviar
+created,criado
+goal,meta
+goals,metas
+here,aqui
+modify_half_day_status,modificar_meio_dia_status
+or for the Employee's Department: {0},ou para o Departamento de Funcionários: {0}
+p,p
+process,processo
+processed,processado
+result,resultado
+results,resultados
+review,análise
+reviews,comentários
+router-link,link do roteador
+svg,SVG
+via Salary Component sync,via sincronização do componente salarial
+{0} & {1},{0} e {1}
+{0} <br> This error can be due to missing or deleted field.,{0} <br> Este erro pode ocorrer devido a um campo ausente ou excluído.
+{0} Appraisal(s) are not submitted yet,{0} As avaliações ainda não foram enviadas
+{0} Field,{0} Campo
+{0} Missing,{0} Ausente
+{0} Row #{1}: Formula is set but {2} is disabled for the Salary Component {3}.,"{0} Linha #{1}: A fórmula está definida, mas {2} está desabilitada para o Componente Salarial {3}."
+{0} Row #{1}: {2} needs to be enabled for the formula to be considered.,{0} Linha #{1}: {2} precisa estar ativado para que a fórmula seja considerada.
+{0} already has an active Shift Assignment {1} for some/all of these dates.,{0} já tem uma atribuição de turno ativa {1} para algumas/todas essas datas.
+{0} completed {1} year(s),{0} completou {1} ano(s)
+{0} has {1} enabled,{0} tem {1} ativado
+{0} is not a holiday.,{0} não é feriado.
+{0} is not allowed to submit Interview Feedback for the Interview: {1},{0} não tem permissão para enviar feedback da entrevista: {1}
+{0} leaves allocated successfully,{0} folhas alocadas com sucesso
+{0} leaves from allocation for {1} leave type have expired and will be processed during the next scheduled job. It is recommended to expire them now before creating new leave policy assignments.,{0} licenças da alocação para o tipo de licença {1} expiraram e serão processadas durante o próximo trabalho agendado. Recomenda-se expirá-los agora antes de criar novas atribuições de política de licenças.
+{0} leaves were manually allocated by {1} on {2},{0} licenças foram alocadas manualmente por {1} em {2}
+{0} of {1} Completed,{0} de {1} concluído
+{0} to {1} employee(s)?,{0} a {1} funcionário(s)?
+{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}.,{0} vagas e {1} orçamento para {2} já previstos para empresas subsidiárias de {3}. Você só pode planejar até {4} vagas e orçar {5} de acordo com o plano de pessoal {6} da controladora {3}.
+{0} will be updated for the following Salary Structures: {1}.,{0} será atualizado para as seguintes Estruturas Salariais: {1}.
+{0} {1} {2}?,{0} {1} {2}?
+{0}: {1},{0}: {1}
+{0}d,{0}d
+{} {} open for this position.,{} {} aberto para esta posição.
