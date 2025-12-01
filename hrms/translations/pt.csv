@@ -238,7 +238,7 @@ Conditions,Condições,
 Percent,Por Cento,
 Error in some rows,Erro em algumas linhas,
 Benefit,Benefício,
-Shift,Mudança,
+Shift,Turno,
 Importing {0} of {1},Importando {0} de {1},
 'employee_field_value' and 'timestamp' are required.,&#39;employee_field_value&#39; e &#39;timestamp&#39; são obrigatórios.,
 Allocation Expired!,Alocação expirada!,
@@ -626,7 +626,7 @@ Salary breakup based on Earning and Deduction.,Separação Salarial com base nas
 Total Earning,Ganhos Totais,
 Salary Structure Assignment,Atribuição de estrutura salarial,
 Shift Assignment,Atribuição de turno,
-Shift Type,Tipo de deslocamento,
+Shift Type,Tipo de turno,
 Shift Request,Pedido de Mudança,
 Enable Auto Attendance,Ativar atendimento automático,
 Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,Marcar a participação com base no &quot;Employee Checkin&quot; para os funcionários atribuídos a essa mudança.,
@@ -759,12 +759,12 @@ Daily Work Summary Replies,Respostas de resumo do trabalho diário,
 Employee Advance Summary,Resumo de Empregado,
 Employees working on a holiday,Os funcionários que trabalham num feriado,
 Monthly Attendance Sheet,Folha de Assiduidade Mensal,
-Salary Register,salário Register,
-Unpaid Expense Claim,De Despesas não remunerado,
+Salary Register,Registo de salários,
+Unpaid Expense Claim,Reivindicação de despesas não pagas,
 Payment Account is mandatory,A conta de pagamento é obrigatória,
 "If checked, the full amount will be deducted from taxable income before calculating income tax without any declaration or proof submission.","Se marcada, o valor total será deduzido do lucro tributável antes do cálculo do imposto de renda, sem qualquer declaração ou apresentação de comprovante.",
-In Time,Em tempo,
-Out Time,Out Time,
+In Time,Hora de Entrada,
+Out Time,Hora de Saída,
 Is Recurring,É recorrente,
 HRA Exemption,Isenção HRA,
 Monthly House Rent,Aluguel mensal de casa,
@@ -1385,31 +1385,31 @@ Late Entries,Entradas atrasadas
 Late Entry & Early Exit Settings for Auto Attendance,Configurações de entrada tardia e saída antecipada para atendimento automático
 Late Entry By,Entrada tardia por
 Latitude and longitude values are required for checking in.,Os valores de latitude e longitude são obrigatórios para o check-in.
-Leave Allocation Exists,A alocação de licença existe
-Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,O período de solicitação de licença não pode ocorrer entre duas alocações de licença não consecutivas {0} e {1}.
-Leave Approver,Deixar aprovador
-Leave Block List,Sair da lista de bloqueios
-Leave Details,Deixe detalhes
-Leave Ledger,Sair do razão
-"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}","A data final da entrada do razão deve ser posterior à data inicial. Atualmente, a data inicial é {0} e a data final é {1}"
-Leave Policy Assignment,Deixar atribuição de política
-Leave Policy Assignment Overlap,Deixar sobreposição de atribuição de política
-Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Política de licença: {0} já atribuído ao Funcionário {1} para o período {2} a {3}
-Leave Type can either be compensatory or earned leave.,O tipo de licença pode ser licença compensatória ou merecida.
+Leave Allocation Exists,A alocação de licença já existe
+Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,O período da solicitação de licença não pode abranger duas alocações de licença não consecutivas {0} e {1}.
+Leave Approver,Aprovador de Folga
+Leave Block List,Lista de Bloqueio de Folgas
+Leave Details,Detalhes da Folga
+Leave Ledger,Registro de Folgas
+"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}","A data final da entrada no registro de folgas deve ser posterior à data inicial. Atualmente, a data inicial é {0} e a data final é {1}"
+Leave Policy Assignment,Atribuição de Política de Licença
+Leave Policy Assignment Overlap,Sobreposição de Atribuição de Política de Licença
+Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Política de Licença: {0} já atribuída ao Funcionário {1} para o período de {2} a {3}
+Leave Type can either be compensatory or earned leave.,O tipo de licença pode ser compensatória ou remunerada.
 Leave Type can either be without pay or partial pay,O tipo de licença pode ser sem remuneração ou com remuneração parcial
 Leave Type is mandatory,O tipo de licença é obrigatório
-Leave allocation {0} is linked with the Leave Application {1},A alocação de licença {0} está vinculada ao Pedido de Licença {1}
-Leave already have been assigned for this Leave Policy Assignment,As licenças já foram atribuídas para esta atribuição de política de licenças
-Leave and Expense Claim Settings,Configurações de licença e relatório de despesas
-Leave of type {0} cannot be longer than {1}.,A licença do tipo {0} não pode ser superior a {1}.
+Leave allocation {0} is linked with the Leave Application {1},A alocação de licença {0} está vinculada à Solicitação de Licença {1}
+Leave already have been assigned for this Leave Policy Assignment,As licenças já foram atribuídas para esta atribuição de política de licença
+Leave and Expense Claim Settings,Configurações de Licença e Solicitação de Despesas
+Leave of type {0} cannot be longer than {1}.,A licença do tipo {0} não pode exceder {1}.
 Leave(s) Expired,Licença(s) expirada(s)
-Leave(s) Pending Approval,Licença(s) com aprovação pendente
-Leave(s) Taken,Licença(s) tirada(s)
+Leave(s) Pending Approval,Licença(s) pendente(s) de aprovação
+Leave(s) Taken,Licença(s) utilizada(s)
 Leaves & Holidays,Férias e Feriados
 Leaves Expired,Férias Expiradas
 Leaves Pending Approval,Férias Pendentes de Aprovação
-Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,"As férias do tipo {0} não serão transferidas, uma vez que a opção de transferência está desativada."
-Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,Férias que pode usufruir em compensação por um feriado em que trabalhou. Pode solicitar uma Licença Compensatória através do Pedido de Licença Compensatória. Clique em {0} para saber mais
+Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,As férias do tipo {0} não serão transferidas, pois a opção de transferência está desativada.
+Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,Férias que você pode usufruir em compensação por um feriado trabalhado. Você pode solicitar Licença Compensatória através do Pedido de Licença Compensatória. Clique em {0} para saber mais
 Lime,Lima
 Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,Vincule o ciclo e marque KRA à sua meta para atualizar a pontuação da meta da avaliação com base no progresso da meta
 Linked Project {} and Tasks deleted.,Projeto vinculado {} e tarefas excluídas.
